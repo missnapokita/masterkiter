@@ -1,0 +1,1035 @@
+{
+  "recall": [
+    {
+      "name": "515! Shuttle! - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/515!%20Shuttle!%20-%20AOT.zip"
+    },
+    {
+      "name": "515! Shuttle! - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/515!%20Shuttle!%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "515! Shuttle! - Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/515!%20Shuttle!%20-%20Exorcist.zip"
+    },
+    {
+      "name": "515! Shuttle! - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/515!%20Shuttle!%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "515! Shuttle! - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/515!%20Shuttle!%20-%20Orochi.zip"
+    },
+    {
+      "name": "515! Shuttle! - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/515!%20Shuttle!%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "515! Shuttle! - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/515!%20Shuttle!%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Atomic Pop - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20AOT.zip"
+    },
+    {
+      "name": "Atomic Pop - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Atomic Pop - Evos",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Evos.zip"
+    },
+    {
+      "name": "Atomic Pop - Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Exorcist.zip"
+    },
+    {
+      "name": "Atomic Pop - FNOP",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/FNOP.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20FNOP.zip"
+    },
+    {
+      "name": "Atomic Pop - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Atomic Pop - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20GEEK.zip"
+    },
+    {
+      "name": "Atomic Pop - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Orochi.zip"
+    },
+    {
+      "name": "Atomic Pop - RSG",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/RSG.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20RSG.zip"
+    },
+    {
+      "name": "Atomic Pop - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "Atomic Pop - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Atomic Pop - TLID",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLID.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20TLID.zip"
+    },
+    {
+      "name": "Atomic Pop - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20TLPH.zip"
+    },
+    {
+      "name": "Atomic Pop - Vale Annual Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Atomic%20Pop.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Atomic%20Pop%20-%20Vale%20Annual%20Star.zip"
+    },
+    {
+      "name": "Blazing West - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20AOT.zip"
+    },
+    {
+      "name": "Blazing West - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Blazing West - Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20Exorcist.zip"
+    },
+    {
+      "name": "Blazing West - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Blazing West - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20Orochi.zip"
+    },
+    {
+      "name": "Blazing West - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "Blazing West - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Blazing West - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Blazing%20West%20-%20TLPH.zip"
+    },
+    {
+      "name": "Classic - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20AOT.zip"
+    },
+    {
+      "name": "Classic - Alpha Legend",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Alpha%20Legend.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Alpha%20Legend.zip"
+    },
+    {
+      "name": "Classic - Avatar of Time",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Avatar%20of%20Time.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Avatar%20of%20Time.zip"
+    },
+    {
+      "name": "Classic - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Classic - Cyber Dragon",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Cyber%20Dragon.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Cyber%20Dragon.zip"
+    },
+    {
+      "name": "Classic - Dashing Cat",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Dashing%20Cat.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Dashing%20Cat.zip"
+    },
+    {
+      "name": "Classic - Ducati",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Ducati.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Ducati.zip"
+    },
+    {
+      "name": "Classic - Ethereal Butterfly",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Ethereal%20Butterfly.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Ethereal%20Butterfly.zip"
+    },
+    {
+      "name": "Classic - Evos",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Evos.zip"
+    },
+    {
+      "name": "Classic - FNOP",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/FNOP.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20FNOP.zip"
+    },
+    {
+      "name": "Classic - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Classic - Foreboding Return",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Foreboding%20Return.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Foreboding%20Return.zip"
+    },
+    {
+      "name": "Classic - Fortification Return",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fortification.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Fortification%20Return.zip"
+    },
+    {
+      "name": "Classic - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20GEEK.zip"
+    },
+    {
+      "name": "Classic - KOF",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/KOF.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20KOF.zip"
+    },
+    {
+      "name": "Classic - Kagura Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Kagura%20Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Kagura%20Exorcist.zip"
+    },
+    {
+      "name": "Classic - Neobeast",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Neobeast.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Neobeast.zip"
+    },
+    {
+      "name": "Classic - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Orochi.zip"
+    },
+    {
+      "name": "Classic - RSG",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/RSG.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20RSG.zip"
+    },
+    {
+      "name": "Classic - Return of Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Return%20of%20Exorcist.zip"
+    },
+    {
+      "name": "Classic - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "Classic - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Classic - Shadow Knight",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Shadow%20Knight.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Shadow%20Knight.zip"
+    },
+    {
+      "name": "Classic - Shadow Wisdom",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Shadow%20Wisdom.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Shadow%20Wisdom.zip"
+    },
+    {
+      "name": "Classic - Snowman",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Snowman.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Snowman.zip"
+    },
+    {
+      "name": "Classic - Summer Gala",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Summer%20Gala.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Summer%20Gala.zip"
+    },
+    {
+      "name": "Classic - Super Return",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Super%20Return.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Super%20Return.zip"
+    },
+    {
+      "name": "Classic - TLID",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLID.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20TLID.zip"
+    },
+    {
+      "name": "Classic - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20TLPH.zip"
+    },
+    {
+      "name": "Classic - Vale Annual Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Classic.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Vale%20Annual%20Star.zip"
+    },
+    {
+      "name": "Classic - Wings of Judgement",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Wings%20of%20Judgement.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Wings%20of%20Judgement.zip"
+    },
+    {
+      "name": "Classic - Wonder Park",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Wonder%20Park.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20Wonder%20Park.zip"
+    },
+    {
+      "name": "Classic - YZ Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Yu%20Zhong%20Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Classic%20-%20YZ%20Exorcist.zip"
+    },
+    {
+      "name": "Halloween - Evos",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Halloween%20-%20Evos.zip"
+    },
+    {
+      "name": "Halloween - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Halloween%20-%20GEEK.zip"
+    },
+    {
+      "name": "Halloween - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Halloween%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Halloween - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Halloween%20-%20TLPH.zip"
+    },
+    {
+      "name": "Light & Dark - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Light%20%26%20Dark%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Light & Dark - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Light%20%26%20Dark%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Light & Dark - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Light%20%26%20Dark%20-%20GEEK.zip"
+    },
+    {
+      "name": "Light & Dark - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Light%20%26%20Dark%20-%20Orochi.zip"
+    },
+    {
+      "name": "Light & Dark - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Light%20%26%20Dark%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Light & Dark - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Light%20%26%20Dark%20-%20TLPH.zip"
+    },
+    {
+      "name": "M3 - Evos",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20Evos.zip"
+    },
+    {
+      "name": "M3 - FNOP",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/FNOP.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20FNOP.zip"
+    },
+    {
+      "name": "M3 - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20GEEK.zip"
+    },
+    {
+      "name": "M3 - RSG",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/RSG.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20RSG.zip"
+    },
+    {
+      "name": "M3 - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "M3 - TLID",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLID.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20TLID.zip"
+    },
+    {
+      "name": "M3 - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20TLPH.zip"
+    },
+    {
+      "name": "M3 - Vale Annual Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/M3.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M3%20-%20Vale%20Annual%20Star.zip"
+    },
+    {
+      "name": "M4 - Evos",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20Evos.zip"
+    },
+    {
+      "name": "M4 - FNOP",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/FNOP.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20FNOP.zip"
+    },
+    {
+      "name": "M4 - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20GEEK.zip"
+    },
+    {
+      "name": "M4 - RSG",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/RSG.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20RSG.zip"
+    },
+    {
+      "name": "M4 - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "M4 - TLID",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLID.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20TLID.zip"
+    },
+    {
+      "name": "M4 - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20TLPH.zip"
+    },
+    {
+      "name": "M4 - Vale Annual Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/M4.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M4%20-%20Vale%20Annual%20Star.zip"
+    },
+    {
+      "name": "M5 - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M5%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "M5 - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M5%20-%20TLPH.zip"
+    },
+    {
+      "name": "M5 - Vale Annual Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/M5.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/M5%20-%20Vale%20Annual%20Star.zip"
+    },
+    {
+      "name": "Naruto - Atomic Pop",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Naruto%20-%20Atomic%20Pop.zip"
+    },
+    {
+      "name": "Naruto - Classic",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Naruto%20-%20Classic.zip"
+    },
+    {
+      "name": "Naruto - M3",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Naruto%20-%20M3.zip"
+    },
+    {
+      "name": "Naruto - M4",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Naruto%20-%20M4.zip"
+    },
+    {
+      "name": "Naruto - M5",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Naruto%20-%20M5.zip"
+    },
+    {
+      "name": "Naruto - Oriental Fighter",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Naruto%20-%20Oriental%20Fighter.zip"
+    },
+    {
+      "name": "Naruto - Starwars",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Naruto.jpg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Naruto%20-%20Starwars.zip"
+    },
+    {
+      "name": "Oriental Fighter - Evos",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20Evos.zip"
+    },
+    {
+      "name": "Oriental Fighter - FNOP",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/FNOP.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20FNOP.zip"
+    },
+    {
+      "name": "Oriental Fighter - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Oriental Fighter - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20GEEK.zip"
+    },
+    {
+      "name": "Oriental Fighter - RSG",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/RSG.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20RSG.zip"
+    },
+    {
+      "name": "Oriental Fighter - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Oriental Fighter - TLID",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLID.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20TLID.zip"
+    },
+    {
+      "name": "Oriental Fighter - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20TLPH.zip"
+    },
+    {
+      "name": "Oriental Fighter - Vale Annual Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Oriental%20Fighters.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighter%20-%20Vale%20Annual%20Star.zip"
+    },
+    {
+      "name": "Oriental Fighters - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighters%20-%20AOT.zip"
+    },
+    {
+      "name": "Oriental Fighters - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighters%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Oriental Fighters - Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighters%20-%20Exorcist.zip"
+    },
+    {
+      "name": "Oriental Fighters - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighters%20-%20Orochi.zip"
+    },
+    {
+      "name": "Oriental Fighters - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Oriental%20Fighters%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "Party King - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20AOT.zip"
+    },
+    {
+      "name": "Party King - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Party King - Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20Exorcist.zip"
+    },
+    {
+      "name": "Party King - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Party King - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20Orochi.zip"
+    },
+    {
+      "name": "Party King - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "Party King - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Party King - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20King%20-%20TLPH.zip"
+    },
+    {
+      "name": "Party Star - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20Star%20-%20AOT.zip"
+    },
+    {
+      "name": "Party Star - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20Star%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Party Star - Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20Star%20-%20Exorcist.zip"
+    },
+    {
+      "name": "Party Star - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20Star%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Party Star - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20Star%20-%20Orochi.zip"
+    },
+    {
+      "name": "Party Star - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20Star%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "Party Star - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Party%20Star%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Return of Storm - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Return%20of%20Storm%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Return of Storm - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Return%20of%20Storm%20-%20TLPH.zip"
+    },
+    {
+      "name": "Return of Sword - Seal Of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Return%20of%20Sword%20Rep.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Return%20of%20Sword%20-%20Seal%20Of%20Anvil.zip"
+    },
+    {
+      "name": "Snowman - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Snowman%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Starwars - AOT",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/AOT.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20AOT.zip"
+    },
+    {
+      "name": "Starwars - Black Void",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Black%20Void.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Black%20Void.zip"
+    },
+    {
+      "name": "Starwars - Evos",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/EVOS.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Evos.zip"
+    },
+    {
+      "name": "Starwars - Exorcist",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Exorcist.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Exorcist.zip"
+    },
+    {
+      "name": "Starwars - FNOP",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/FNOP.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20FNOP.zip"
+    },
+    {
+      "name": "Starwars - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Starwars - GEEK",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/GEEk.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20GEEK.zip"
+    },
+    {
+      "name": "Starwars - Orochi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Orichi.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Orochi.zip"
+    },
+    {
+      "name": "Starwars - RSG",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/RSG.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20RSG.zip"
+    },
+    {
+      "name": "Starwars - Rhythmic Echo",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Rythmic%20Echo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Rhythmic%20Echo.zip"
+    },
+    {
+      "name": "Starwars - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Starwars - TLID",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLID.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20TLID.zip"
+    },
+    {
+      "name": "Starwars - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20TLPH.zip"
+    },
+    {
+      "name": "Starwars - Vale Annual Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Replacements/Startwars.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Starwars%20-%20Vale%20Annual%20Star.zip"
+    },
+    {
+      "name": "Stellar Brilliance - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Stellar%20Brilliance%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Super Return - Fire Crown",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Fire%20Crown.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Super%20Return%20-%20Fire%20Crown.zip"
+    },
+    {
+      "name": "Super Return - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Super%20Return%20-%20Seal%20of%20Anvil.zip"
+    },
+    {
+      "name": "Super Return - TLPH",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/TLPH.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Super%20Return%20-%20TLPH.zip"
+    },
+    {
+      "name": "Transformers - Seal of Anvil",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Recall/Seal%20of%20Anvil.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/REC4L/main/Transformers%20-%20Seal%20of%20Anvil.zip"
+    }
+  ],
+  "trail": [
+    {
+      "name": "1 Gord Legend",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Gord%20Legend.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/1%20Gord%20Legend.zip"
+    },
+    {
+      "name": "2 Alucard Legend",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Alucard%20Legend.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/2%20Alucard%20Legend.zip"
+    },
+    {
+      "name": "3 Valir Legends",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Valir%20Legend.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/3%20Valir%20Legends.zip"
+    },
+    {
+      "name": "4 Gusion Legend",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Gusion%20Legend.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/4%20Gusion%20Legend.zip"
+    },
+    {
+      "name": "5 Franco Legend",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Franco%20Legend.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/5%20Franco%20Legend.zip"
+    },
+    {
+      "name": "6 Saber Legend",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Saber%20Legend.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/6%20Saber%20Legend.zip"
+    },
+    {
+      "name": "7 Yu Zhong Prime",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Yu%20Zhong%20Prime.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/7%20Yu%20Zhong%20Prime.zip"
+    },
+    {
+      "name": "8 Yu Zhong M5",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Yu%20Zhong%20M%EF%BC%95.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/8%20Yu%20Zhong%20M5.zip"
+    },
+    {
+      "name": "9 Roger Prime",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Roger%20Prime.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/9%20Roger%20Prime.zip"
+    },
+    {
+      "name": "10 Roger M3",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Roger%20M%EF%BC%93.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/10%20Roger%20M3.zip"
+    },
+    {
+      "name": "11 Beatrix Prime",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Beatrix%20Prime.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/11%20Beatrix%20Prime.zip"
+    },
+    {
+      "name": "12 Thamus Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Thamus%20Starlight.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/12%20Thamus%20Star.zip"
+    },
+    {
+      "name": "13 Edith Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Edith%20Starlight.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/13%20Edith%20Star.zip"
+    },
+    {
+      "name": "14 Layla Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Layla%20Starlight.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/14%20Layla%20Star.zip"
+    },
+    {
+      "name": "15 Melissa Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Melissa%20Starlight.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/15%20Melissa%20Star.zip"
+    },
+    {
+      "name": "16 Arlott Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Arlott%20Starlight.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/16%20Arlott%20Star.zip"
+    },
+    {
+      "name": "17 Minsitthar Star",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Minsitthar%20Starlight.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/17%20Minsitthar%20Star.zip"
+    },
+    {
+      "name": "Trail Claude Prime - Classic",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Claude%20Prime.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/Trail%20Claude%20Prime%20-%20Classic.zip"
+    },
+    {
+      "name": "Trail Johnson Legend - Classic",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Trail/Johnson%20Legend.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/TR4IL/main/Trail%20Johnson%20Legend%20-%20Classic.zip"
+    }
+  ],
+  "emote": [
+    {
+      "name": "G -  Doge",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Doge.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20%20Doge.zip"
+    },
+    {
+      "name": "G -  Geek Fam ID 2022 - Santai bro",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Geek%20Fam%20ID%202022.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20%20Geek%20Fam%20ID%202022%20-%20Santai%20bro.zip"
+    },
+    {
+      "name": "G -  Onic M3",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Onic.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20%20Onic%20M3.zip"
+    },
+    {
+      "name": "G - Alter Ego - Go Go Go",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Alter%20Ego.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Alter%20Ego%20-%20Go%20Go%20Go.zip"
+    },
+    {
+      "name": "G - Alter Ego ID 2021",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Alter%20Ego%20ID%202021.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Alter%20Ego%20ID%202021.zip"
+    },
+    {
+      "name": "G - Aura Fire ID - Panik²",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Aura%20Fire%20ID.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Aura%20Fire%20ID%20-%20Panik%C2%B2.zip"
+    },
+    {
+      "name": "G - Bren eSports",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Bren%20eSports.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Bren%20eSports.zip"
+    },
+    {
+      "name": "G - Change Aspirant",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Chang%E2%80%99e%20Aspirant.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Change%20Aspirant.zip"
+    },
+    {
+      "name": "G - Chou Kof - Am I Scary",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Chou%20KOF.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Chou%20Kof%20-%20Am%20I%20Scary.zip"
+    },
+    {
+      "name": "G - Echo PH 2022 - Sheesh",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Echo%20PH.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Echo%20PH%202022%20-%20Sheesh.zip"
+    },
+    {
+      "name": "G - Evos ID 2021",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Evos%20ID.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Evos%20ID%202021.zip"
+    },
+    {
+      "name": "G - Evos ID 2022 - Tutor deck",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Evos%20ID%202022.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Evos%20ID%202022%20-%20Tutor%20deck.zip"
+    },
+    {
+      "name": "G - Evos Kelazzz",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Evos.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Evos%20Kelazzz.zip"
+    },
+    {
+      "name": "G - Geek Fam ID 2021 - haha wp bro",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Geek%20Fam.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Geek%20Fam%20ID%202021%20-%20haha%20wp%20bro.zip"
+    },
+    {
+      "name": "G - Gojo Satoru - Nice Job!",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Gojo%20Saturo.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Gojo%20Satoru%20-%20Nice%20Job!.zip"
+    },
+    {
+      "name": "G - Guinevere Kof - Feel Energetic",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Guinevere%20KOF.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Guinevere%20Kof%20-%20Feel%20Energetic.zip"
+    },
+    {
+      "name": "G - Layla Blue Spectre - Ahaha",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Blue%20Spectre.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Layla%20Blue%20Spectre%20-%20Ahaha.zip"
+    },
+    {
+      "name": "G - Mai Shiranui - Bring it on!",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Mai%20Shiranui.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Mai%20Shiranui%20-%20Bring%20it%20on!.zip"
+    },
+    {
+      "name": "G - Megumi - Melancholy",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Megumi%20Fushiguro.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Megumi%20-%20Melancholy.zip"
+    },
+    {
+      "name": "G - Nana Mistbenders - La-la-la",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Nana%20Mistbender.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Nana%20Mistbenders%20-%20La-la-la.zip"
+    },
+    {
+      "name": "G - No! No!",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/No~.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20No!%20No!.zip"
+    },
+    {
+      "name": "G - Onic ID 2022 - Ora",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Onic%20PH.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Onic%20ID%202022%20-%20Ora.zip"
+    },
+    {
+      "name": "G - Pleasant Surprise",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Pleasant%20Surprise.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Pleasant%20Surprise.zip"
+    },
+    {
+      "name": "G - RBL ID 2022 - Rata woi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/RBL%20ID.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20RBL%20ID%202022%20-%20Rata%20woi.zip"
+    },
+    {
+      "name": "G - RRQ Hoshi",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/RRQ.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20RRQ%20Hoshi.zip"
+    },
+    {
+      "name": "G - RRQ ID 2022 Bek bek bek",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/RRQ%202022.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20RRQ%20ID%202022%20Bek%20bek%20bek.zip"
+    },
+    {
+      "name": "G - RSG PH 2021",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/RSG%20OH.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20RSG%20PH%202021.zip"
+    },
+    {
+      "name": "G - TNC PH - Hey You I Love You",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/TNC%20PH.png",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20TNC%20PH%20-%20Hey%20You%20I%20Love%20You.zip"
+    },
+    {
+      "name": "G - Yuji Itadori - Delighted",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Emote/Yuji%20Itadori.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EM0T3/main/G%20-%20Yuji%20Itadori%20-%20Delighted.zip"
+    }
+  ],
+  "elimination": [
+    {
+      "name": "Classic - Crash",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Crash.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20-%20Crash.zip"
+    },
+    {
+      "name": "Classic - K.O 97'kof",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/KOF%E2%80%99%EF%BC%99%EF%BC%97.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20-%20K.O%2097'kof.zip"
+    },
+    {
+      "name": "Classic - K.O Starlight",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/K.O.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20-%20K.O%20Starlight.zip"
+    },
+    {
+      "name": "Classic - K.O Transformers",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Transformers.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20-%20K.O%20Transformers.zip"
+    },
+    {
+      "name": "Classic - Mistbender",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Mistbender.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20-%20Mistbender.zip"
+    },
+    {
+      "name": "Classic - Sanrio",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Sanrio.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20-%20Sanrio.zip"
+    },
+    {
+      "name": "Classic Onic 2024",
+      "image": "https://raw.githubusercontent.com/WG170320/Effects-Images/main/Elimination/Onic.jpeg",
+      "script": "https://raw.githubusercontent.com/injctr/EL1M1N4TI0N/main/Classic%20Onic%202024.zip"
+    }
+  ]
+}
