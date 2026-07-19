@@ -14952,6 +14952,98 @@
           ]
         }
       ]
+    },
+    {
+      "id": "dyrroth_ruins_scavenger",
+      "hero": "Dyrroth",
+      "base_name": "Ruins Scavenger",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
+      "backup_script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter/dyrroth%20backup.zip?t=2025-01-19T09%3A39%3A06.195Z",
+      "enabled": true,
+      "skin_tags": [
+        "starlight"
+      ],
+      "targets": [
+        {
+          "id": "dyrroth_ruins_scavenger_to_v_e_n_o_m",
+          "name": "V.E.N.O.M",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20230615180223",
+          "script": "https://github.com/missnapokita/Sepfix/raw/refs/heads/main/dyroth%20star%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "venom"
+          ]
+        },
+        {
+          "id": "dyrroth_ruins_scavenger_to_orochi_chris",
+          "name": "Orochi Chris",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20star%20to%20kof.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "kof"
+          ]
+        },
+        {
+          "id": "dyrroth_ruins_scavenger_to_gon",
+          "name": "Gon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest?cb=20241207073218",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20star%20to%20gon.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "hunterxhunter"
+          ]
+        },
+        {
+          "id": "dyrroth_ruins_scavenger_to_naraka_flame",
+          "name": "Naraka Flame",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20star%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dyrroth_v_e_n_o_m_cobra",
+      "hero": "Dyrroth",
+      "base_name": "V.E.N.O.M Cobra",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20220525170036",
+      "backup_script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter/dyrroth%20backup.zip?t=2025-01-19T09%3A39%3A06.195Z",
+      "enabled": true,
+      "skin_tags": [
+        "venom"
+      ],
+      "targets": [
+        {
+          "id": "dyrroth_v_e_n_o_m_cobra_to_gon",
+          "name": "Gon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest?cb=20241207073218",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20venom%20to%20gon.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "hunterxhunter"
+          ]
+        },
+        {
+          "id": "dyrroth_v_e_n_o_m_cobra_to_orochi_chris",
+          "name": "Orochi Chris",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20venom%20to%20kof.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "kof"
+          ]
+        }
+      ]
     }
   ]
 }
