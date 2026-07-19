@@ -14895,6 +14895,63 @@
         }
       ],
       "skin_tags": []
+    },
+    {
+      "id": "dyrroth_scalebore",
+      "hero": "Dyrroth",
+      "base_name": "Scalebore",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest?cb=20220525170032",
+      "backup_script": "https://github.com/missnapokita/Sepfix/raw/refs/heads/main/dyroth%20normal%20to%20collector.zip",
+      "enabled": true,
+      "skin_tags": [
+        "normal"
+      ],
+      "targets": [
+        {
+          "id": "dyrroth_scalebore_to_naraka_flame",
+          "name": "V.E.N.O.M",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest?cb=20230615180223",
+          "script": "https://github.com/missnapokita/Sepfix/raw/refs/heads/main/dyroth%20normal%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
+        },
+        {
+          "id": "dyrroth_scalebore_to_orochi_chris",
+          "name": "Orochi Chris",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest?cb=20220525170033",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20normal%20to%20kof.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "kof"
+          ]
+        },
+        {
+          "id": "dyrroth_scalebore_to_gon",
+          "name": "Gon",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073218",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20normal%20to%20gon.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "hunterxhunter"
+          ]
+        },
+        {
+          "id": "dyrroth_scalebore_to_naraka_flame_2",
+          "name": "Naraka Flame",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
+          "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/dy%20normal%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
+        }
+      ]
     }
   ]
 }
