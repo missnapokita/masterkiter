@@ -1695,6 +1695,16 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "argus_006",
+          "skin_name": "Blade of Rakasha, Epic",
+          "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero455_CAB_357b51d73c0be3651d6a26072933f70c.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/argus%20blade%20of%20rakasha.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
         }
       ]
     },
@@ -9697,6 +9707,16 @@
           "enabled": true,
           "tags": [],
           "name": ""
+        },
+        {
+          "id": "guinevere_013",
+          "skin_name": "Electric Diva, Epic",
+          "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero108011_CAB_034cedfd1435d509fd2ea6256693ce67.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/guin%20electric%20diva.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
         }
       ]
     },
@@ -12868,6 +12888,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "kadita_006",
+          "skin_name": "Allstar Siren Lord, Basic",
+          "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero105212_CAB_685f1900afe7566eac56c5c4c79282e5.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/kadita%20all%20star.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         }
       ]
