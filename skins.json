@@ -20181,7 +20181,7 @@
       ]
     },
     {
-      "id": "popol_and_kupa",
+      "id": "popol-and-kupa",
       "name": "Popol and Kupa",
       "category": "marksman",
       "enabled": true,
@@ -23832,7 +23832,7 @@
       ]
     },
     {
-      "id": "x_borg",
+      "id": "x-borg",
       "name": "X.Borg",
       "category": "fighter",
       "enabled": true,
@@ -24196,7 +24196,7 @@
       ]
     },
     {
-      "id": "yi_sun_shin",
+      "id": "yi-sun-shin",
       "name": "Yi Sun-Shin",
       "category": "assassin",
       "enabled": true,
@@ -24589,7 +24589,7 @@
       ]
     },
     {
-      "id": "yu_zhong",
+      "id": "yu-zhong",
       "name": "Yu Zhong",
       "category": "fighter",
       "enabled": true,
