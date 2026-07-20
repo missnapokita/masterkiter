@@ -1,0 +1,25 @@
+{
+  "shizuku_tutorial": "",
+  "subscribe": {
+    "enabled": true,
+    "version": 2,
+    "banner": "",
+    "message": "",
+    "channel_link": ""
+  },
+  "sponsor": {
+    "enabled": true,
+    "app_open_enabled": false,
+    "button_enabled": false,
+    "rotation_enabled": false,
+    "rotation_minutes": 30,
+    "claim_links": [],
+    "claim_link": ""
+  },
+  "update_enabled": true,
+  "force_update": false,
+  "latest_version": 20,
+  "update_title": "New Update Available",
+  "update_message": "Added Micheal Jackson Skin",
+  "update_link": "https://play.google.com/store/apps/details?id=com.iandev.masterkit"
+}
