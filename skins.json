@@ -1581,6 +1581,26 @@
           "name": ""
         },
         {
+          "id": "argus_007",
+          "skin_name": "Raiden Maru",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/argus%20vulcan.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
+          "id": "argus_006",
+          "skin_name": "Blade of Rakasha, Epic",
+          "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero455_CAB_357b51d73c0be3651d6a26072933f70c.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/argus%20blade%20of%20rakasha.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "argus_002",
           "skin_name": "Catastrophe",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest?cb=20220525165231",
@@ -1694,16 +1714,6 @@
               "file": ""
             }
           ],
-          "name": ""
-        },
-        {
-          "id": "argus_006",
-          "skin_name": "Blade of Rakasha, Epic",
-          "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero455_CAB_357b51d73c0be3651d6a26072933f70c.png",
-          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/argus%20blade%20of%20rakasha.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [],
           "name": ""
         }
       ]
@@ -2538,6 +2548,16 @@
           "name": ""
         },
         {
+          "id": "balmond_007",
+          "skin_name": "Vulcan Lionheart",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/balmond%20vulcan.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "balmond_002",
           "skin_name": "Infernal Warlord",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
@@ -2680,16 +2700,6 @@
               "file": ""
             }
           ],
-          "name": ""
-        },
-        {
-          "id": "balmond_007",
-          "skin_name": "Vulan Lionheart",
-          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
-          "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/balmond%20titans.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [],
           "name": ""
         }
       ]
@@ -3062,6 +3072,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "baxia_006",
+          "skin_name": "Aegis of Honor",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/Picsart_26-07-22_14-51-58-926.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/baxia%20msc.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
@@ -11266,6 +11286,16 @@
           "name": ""
         },
         {
+          "id": "helcurt_006",
+          "skin_name": "Kaiju of the Deep",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/hc%20vulcan.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "helcurt_002",
           "skin_name": "Ice Scythe",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
@@ -11379,16 +11409,6 @@
               "file": ""
             }
           ],
-          "name": ""
-        },
-        {
-          "id": "helcurt_006",
-          "skin_name": "Kaiju of the Deep",
-          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
-          "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/hc%20collector.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [],
           "name": ""
         }
       ]
@@ -21822,6 +21842,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "sun_008",
+          "skin_name": "Celestial Rebel",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/CCTitans/Sun.Collector.Titan.Replace.Default.-.K4IJ1.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
