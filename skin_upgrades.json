@@ -5705,6 +5705,17 @@
             "luckybox",
             "elite"
           ]
+        },
+        {
+          "id": "moskov_decapitator_to_harbinger_of_chaos",
+          "name": "Harbinger of Chaos",
+          "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/moscov%20elite%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": []
@@ -5761,6 +5772,17 @@
             "epic",
             "dragon_tamer"
           ]
+        },
+        {
+          "id": "moskov_spear_of_bone_dragon_to_harbinger_of_chaos",
+          "name": "Harbinger of Chaos",
+          "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/moscov%20nor%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": [
@@ -5816,6 +5838,17 @@
           "skin_tags": [
             "epic"
           ]
+        },
+        {
+          "id": "moskov_yasha_to_harbinger_of_chaos",
+          "name": "Harbinger of Chaos",
+          "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/moscov%20s%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": []
@@ -5834,6 +5867,15 @@
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cb=20220525165001",
           "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/moskov%20backup.zip",
           "type": "backup",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "moskov_javelin_champion_to_harbinger_of_chaos",
+          "name": "Harbinger of Chaos",
+          "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250804_231047.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/mosov%20old%20star%20to%20collector.zip",
+          "type": "upgrade",
           "enabled": true,
           "skin_tags": []
         }
