@@ -3149,6 +3149,17 @@
             "starlight",
             "elite"
           ]
+        },
+        {
+          "id": "aamon_noble_crest_to_vessels_of_deceit",
+          "name": "Vessels of Deceit",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest?cb=20240619172936",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aamon%20Elite%20to%20VESSELS.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "soul"
+          ]
         }
       ],
       "skin_tags": []
