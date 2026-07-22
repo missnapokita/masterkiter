@@ -13724,6 +13724,17 @@
           "skin_tags": [
             "streetfighters"
           ]
+        },
+        {
+          "id": "guinevere_fleur_de_bleau_to_electric_diva",
+          "name": "Electric Diva",
+          "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/Hero108011_CAB_034cedfd1435d509fd2ea6256693ce67.png",
+          "script": "https://github.com/Meow00001/Files/raw/main/Guinevere/Guinevere%20Basic/Guinevere%20Basic%20to%20Epic%20-%20Electric%20Diva.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "epic"
+          ]
         }
       ],
       "skin_tags": []
