@@ -49,7 +49,7 @@
           "id": "aamon_003",
           "skin_name": "Vessel of Deceit",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest?cb=20240619172936",
-          "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_vessel.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/aamon%20soul.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -18324,7 +18324,7 @@
           "id": "moskov_009",
           "skin_name": "Harbinger Of Chaos",
           "image": "https://github.com/Mexi23/AugustUpdate/raw/refs/heads/main/moscov%20portrait.png",
-          "script": "https://github.com/tin0521/neww/raw/main/moscov_collector.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/moscov%20collector.zip",
           "featured": true,
           "enabled": true,
           "tags": [
