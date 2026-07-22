@@ -1768,6 +1768,17 @@
           "skin_tags": [
             "zodiac"
           ]
+        },
+        {
+          "id": "helcurt_ice_scythe_to_kaiju_of_the_deep",
+          "name": "Kaiju of the Deep",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/hc%20elite%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": [
@@ -1800,6 +1811,17 @@
           "enabled": true,
           "skin_tags": [
             "zodiac"
+          ]
+        },
+        {
+          "id": "helcurt_exoracial_executer_to_kaiju_of_the_deep",
+          "name": "Kaiju of the Deep",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/hc%20nor%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
           ]
         }
       ],
@@ -10725,6 +10747,17 @@
           "skin_tags": [
             "elite"
           ]
+        },
+        {
+          "id": "balmond_ghoul_s_fury_to_vulcan_lionheart",
+          "name": "Vulcan Lionheart",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/balmond%20elite%20g%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": []
@@ -10754,6 +10787,17 @@
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
+        },
+        {
+          "id": "balmond_savage_hunter_to_vulcan_lionsheart",
+          "name": "Vulcan Lionsheart",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/balmond%20elite%20s%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": []
@@ -12001,6 +12045,17 @@
           "skin_tags": [
             "elite"
           ]
+        },
+        {
+          "id": "sun_battle_buddha_to_celestial_rebel",
+          "name": "Celestial Rebel",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20elitem%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": []
@@ -12044,6 +12099,17 @@
           "skin_tags": [
             "legend",
             "special"
+          ]
+        },
+        {
+          "id": "sun_street_legend_to_celestial_rebel",
+          "name": "Celestial Rebel",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20spe%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
           ]
         }
       ],
@@ -12635,6 +12701,17 @@
           "skin_tags": [
             "starlight"
           ]
+        },
+        {
+          "id": "argus_light_of_dawn_to_raiden_maru",
+          "name": "Raiden Maru",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/argus%20nor%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": []
@@ -12666,6 +12743,15 @@
           "skin_tags": [
             "elite"
           ]
+        },
+        {
+          "id": "argus_catastrophe_to_raiden_maru",
+          "name": "Raiden Maru",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/argus%20elite%20to%20vulcan%20.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -12695,6 +12781,17 @@
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
+        },
+        {
+          "id": "argus_winged_nightmare_to_raiden_maru",
+          "name": "Raiden Maru",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vSbUAAxJ96.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/argus%20s%20tp%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
         }
       ],
       "skin_tags": []
@@ -15135,6 +15232,17 @@
           "skin_tags": [
             "collector"
           ]
+        },
+        {
+          "id": "dyrroth_scalebore_to_guile",
+          "name": "Guile",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20nor%20to%20guile.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "street"
+          ]
         }
       ]
     },
@@ -15192,6 +15300,17 @@
           "skin_tags": [
             "collector"
           ]
+        },
+        {
+          "id": "dyrroth_ruins_scavenger_to_guile",
+          "name": "Guile",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20star%20to%20guile.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "street"
+          ]
         }
       ]
     },
@@ -15226,6 +15345,134 @@
           "enabled": true,
           "skin_tags": [
             "kof"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sun_celestial_outlaw",
+      "hero": "Sun",
+      "base_name": "Celestial Outlaw",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
+      "backup_script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20s%20to%20vulcan.zip",
+      "enabled": true,
+      "skin_tags": [
+        "season"
+      ],
+      "targets": [
+        {
+          "id": "sun_celestial_outlaw_to_backup",
+          "name": "Backup",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20s%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "season"
+          ]
+        },
+        {
+          "id": "sun_celestial_outlaw_to_celestial_rebel",
+          "name": "Celestial Rebel",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20s%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "collector"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sun_simian_curse",
+      "hero": "Sun",
+      "base_name": "Simian Curse",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+      "backup_script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20star%20to%20vulcan.zip",
+      "enabled": true,
+      "skin_tags": [
+        "starlight"
+      ],
+      "targets": [
+        {
+          "id": "sun_simian_curse_to_backup",
+          "name": "Backup",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20star%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "sun_simian_curse_to_celestial_rebel",
+          "name": "Celestial Rebel",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HLqK_vTaEAAhodw.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/sun%20star%20to%20vulcan.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "baxia_wild_totem",
+      "hero": "Baxia",
+      "base_name": "Wild Totem",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero872-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170056",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "baxia_wild_totem_to_backup",
+          "name": "Backup",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero872-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170056",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/baxia%20nor%20to%20msc.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "baxia_wild_totem_to_aegis_of_honor",
+          "name": "Aegis of Honor",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/Picsart_26-07-22_14-51-58-926.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/baxia%20nor%20to%20msc.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "msc"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baxia_black_tortoise",
+      "hero": "Baxia",
+      "base_name": "Black Tortoise",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero875-portrait.png/revision/latest/scale-to-width-down/150?cb=20241204075653",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "baxia_black_tortoise_to_backup",
+          "name": "Backup",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero875-portrait.png/revision/latest/scale-to-width-down/150?cb=20241204075653",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/baxia%20s%20to%20msc.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "baxia_black_tortoise_to_aegis_of_honor",
+          "name": "Aegis of Honor",
+          "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/Picsart_26-07-22_14-51-58-926.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/baxia%20s%20to%20msc.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "msc"
           ]
         }
       ]
