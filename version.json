@@ -1,14 +1,13 @@
 {
-  "version_code": 7,
-  "version_name": "1.1.0",
-  "title": "Masterkit Update Available",
-  "message": "Added 2 new Features!",
+  "version_code": 8,
+  "version_name": "1.0",
+  "title": "Masterkit Update Released!",
+  "message": "Added 200+ Anime Skins (Paldo 🔥)",
   "changelog": [
-    "Added Meme Skins",
-    "Added Custom Maps",
-    "Fix App Bugs & Errors"
+    "Note!",
+    "Uninstall the old Masterkit App before you install the new version of Masterkit to avoid ban and removed bugs. ❤️"
   ],
-  "download_url": "https://play.google.com/store/apps/details?id=com.iandev.masterkit",
+  "download_url": "https://masterkit.it.com/",
   "update_size": "18 MB",
   "force_update": true
 }
