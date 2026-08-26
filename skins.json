@@ -1293,6 +1293,16 @@
           "name": ""
         },
         {
+          "id": "angela_011",
+          "skin_name": "Wind-Courier",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/angela%20special.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/angela%20special.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "angela_002",
           "skin_name": "Shanghai Maiden",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero553-portrait.png/revision/latest?cb=20220525165432",
@@ -1859,6 +1869,16 @@
           "name": ""
         },
         {
+          "id": "atlas_006",
+          "skin_name": "Sunkin Curse",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/atlas%20epic.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/atlas%20epic.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "atlas_002",
           "skin_name": "Rune of Sentinel",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest?cb=20230514163425",
@@ -2009,6 +2029,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "aulus_006",
+          "skin_name": "Starwake Corsair",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aulus%20star.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aulus%20star.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
@@ -7286,7 +7316,8 @@
               "icon": "",
               "file": ""
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "fanny_002",
@@ -7302,7 +7333,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Legend Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "fanny_003",
@@ -7318,7 +7350,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Summer Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "fanny_004",
@@ -7385,7 +7418,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Lightborn Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "fanny_008",
@@ -7418,7 +7452,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Valentine Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "fanny_010",
@@ -7434,7 +7469,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Elite Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "fanny_011",
@@ -7450,7 +7486,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Starlight Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "fanny_012",
@@ -11374,6 +11411,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "helcurt_007",
+          "skin_name": "Cyber Infiltrator",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/hc%20epic.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/hc%20epic.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
