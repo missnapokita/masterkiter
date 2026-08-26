@@ -313,6 +313,15 @@
         "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip",
         "featured": false,
         "enabled": true
+      },
+      {
+        "skin_name": "Gojo",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnUrCk0zZVFGRw3_JmKdYxzcsY0cSfxoTKRiLycavaRZxd4nE7VrzkR4Iv&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/arlott%20gojo.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Arlott"
       }
     ],
     "enabled": true
@@ -332,6 +341,24 @@
         "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Aurora%20X%20Aokiji%20Onepiece.zip",
         "enabled": true,
         "featured": false
+      },
+      {
+        "skin_name": "Conan",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aurora%20conan.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aurora%20conan.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aurora"
+      },
+      {
+        "skin_name": "Keshin Dinetsu",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aurora%20keshin.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aurora%20keshin.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aurora"
       }
     ],
     "enabled": true,
@@ -479,6 +506,33 @@
         "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/badang%20genos.zip",
         "featured": false,
         "enabled": true
+      },
+      {
+        "skin_name": "Katakuri",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggObA6mFbYxGF0bRY5mHiBtOiJZ-FRdnFXKIUstU4ndwRvmBp1zAH4eOU&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/badang%20katakori.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
+      },
+      {
+        "skin_name": "Madara",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxp2iU65XgplMxkKtI6qWmFiu25DU_ZgNGRew_pPRKHnWyjkMaPx3v58&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/badang%20madara.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
+      },
+      {
+        "skin_name": "Neji",
+        "image": "https://wallpaper.forfun.com/fetch/ba/ba7cdc9d577b11f21eb4fad2899bd99e.jpeg",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/badang%20neji.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
       }
     ],
     "enabled": true,
@@ -1307,6 +1361,124 @@
         "enabled": true,
         "name": "",
         "hero_name": "Melissa"
+      }
+    ]
+  },
+  {
+    "hero_name": "Aamon",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero1091-portrait.png/revision/latest/scale-to-width-down/150?cb=20251225192214",
+    "name": "Aamon",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Alhaitham",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aamon%20alfam.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aamon%20alhaitham.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aamon"
+      },
+      {
+        "skin_name": "Naruto",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aamon%20naruto.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aamon%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aamon"
+      }
+    ]
+  },
+  {
+    "hero_name": "Aldous",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142204",
+    "name": "Aldous",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Saitama",
+        "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/aldous%20saitama.png",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/aldous%20saitama.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Aldous"
+      }
+    ]
+  },
+  {
+    "hero_name": "Benedetta",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143017",
+    "name": "Benedetta",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Maki Zenin",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhLciZ1DRx148jkhu7u60h8khvf1N5ACfbeRVnMKPF-SgCC1sqwW-pLEte&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/bene%20maki%20zenin.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Benedetta"
+      },
+      {
+        "skin_name": "Okita Souji",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBxbzOH9icFvxyaolM2eDqGsH0564NMHvCwXm27Vcofuh76_xRIzeG2I5&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/bene%20okita%20souji.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Benedetta"
+      }
+    ]
+  },
+  {
+    "hero_name": "Helcurt",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero511-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141850",
+    "name": "Helcurt",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Naruto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5pM59WnFL11s9qTl03x1zndb5OpgcqWCPbOg68IxhEv8JvX85RKhW3qR&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/hc%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Helcurt"
+      }
+    ]
+  },
+  {
+    "hero_name": "Moskov",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141344",
+    "name": "Moskov",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Naruto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqqyvV5_21KDeexQQIGsjwihvuNcLrzFYZKeniJeL5Re30fbLQ-WiawtT&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/moskov%20naruto.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Moskov"
       }
     ]
   }
