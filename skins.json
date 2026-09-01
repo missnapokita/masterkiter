@@ -1422,8 +1422,8 @@
           "id": "angela_006",
           "skin_name": "Floral Elf",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero557-portrait.png/revision/latest?cb=20220525165436",
-          "script": "https://github.com/tin0521/supp/raw/main/angela_collector.zip",
-          "featured": true,
+          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Angela.Collector.Optimize.Replace.Default.zip",
+          "featured": false,
           "enabled": true,
           "tags": [
             {
@@ -3893,7 +3893,7 @@
           "skin_name": "Ore-chemist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
           "script": "https://github.com/tin0521/mm/raw/main/brody_collector.zip",
-          "featured": true,
+          "featured": false,
           "enabled": true,
           "tags": [
             {
@@ -4066,6 +4066,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "brody_008",
+          "skin_name": "The Purifier",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/brody%20collector.png",
+          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Bruno.Collector.Script.Replace.Default.Unfinished.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         }
       ]
@@ -21498,6 +21508,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "selena_011",
+          "skin_name": "Silverbolt Raiko",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
