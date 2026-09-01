@@ -2526,6 +2526,15 @@
           "skin_tags": [
             "zenith"
           ]
+        },
+        {
+          "id": "selena_wasp_queen_to_silverbolt_raiko",
+          "name": "Silverbolt Raiko",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Basic.-.K4IJ1.SFILE.MOBI.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -2557,6 +2566,15 @@
           "skin_tags": [
             "abyss"
           ]
+        },
+        {
+          "id": "selena_double_identity_to_silverbolt_raiko",
+          "name": "Silverbolt Raiko",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Basic.-.K4IJ1.SFILE.MOBI.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -15790,6 +15808,26 @@
           "name": "Starborn Resolve",
           "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_122113.jpg",
           "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/elite/main/FREYA%20ELITE%20TO%20STARLIGHT.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selena_s_t_u_n_selena",
+      "hero": "Selena",
+      "base_name": "S.T.U.N. Selena",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "selena_s_t_u_n_selena_to_silverbolt_raiko",
+          "name": "Silverbolt Raiko",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.S.T.U.N.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
