@@ -1,13 +1,13 @@
 {
-  "version_code": 9,
+  "version_code": 10,
   "version_name": "1.0",
   "title": "Masterkit Update Released!",
-  "message": "Added 200+ Anime Skins (Paldo 🔥)",
+  "message": "Added 10+ New Skins and Fixed Inject Errors 🔥",
   "changelog": [
     "Note!",
-    "Uninstall the old Masterkit App before you install the new version of Masterkit to avoid ban and removed bugs. ❤️"
+    "Tap “Update” to download the update directly through Chrome/Browser. Once the download is complete, install Masterkit V4 and enjoy!"
   ],
-  "download_url": "https://raw.githubusercontent.com/missnapokita/apps/main/Masterkit%20V3.apk",
-  "update_size": "18 MB",
+  "download_url": "https://raw.githubusercontent.com/missnapokita/hatdog/main/assets/Masterkit%20V4.apk",
+  "update_size": "39 MB",
   "force_update": true
 }
