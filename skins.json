@@ -19592,6 +19592,16 @@
           "name": ""
         },
         {
+          "id": "obsidia_003",
+          "skin_name": "Impeatrix Arashi",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/obsidia%20aspi.png",
+          "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/F1%20OBSIDIA%20BASIC%20TO%20ASPIRANT.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "obsidia_002",
           "skin_name": "Magitech Wraith",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
@@ -21514,7 +21524,7 @@
           "id": "selena_011",
           "skin_name": "Silverbolt Raiko",
           "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
-          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
+          "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/SELENA%20DEFAULT%20TO%20ASPIRANT.zip",
           "featured": false,
           "enabled": true,
           "tags": [],
