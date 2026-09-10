@@ -1,5 +1,21 @@
 [
   {
+    "hero_name": "Obsidia",
+    "skin_name": "Imperatrix Arashi",
+    "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena-obsidia-aspirants-skin-splash-art-v0-cbjo33hz24jh1.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+    "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/F1%20OBSIDIA%20BASIC%20TO%20ASPIRANT.zip",
+    "hero_id": "Obsidia"
+  },
+  {
+    "hero_name": "Selena",
+    "skin_name": "Silverbolt Raiko",
+    "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/selena-obsidia-aspirants-skin-splash-art-v0-ktl48a8z24jh1.jpg",
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20SELENA.png",
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
+    "hero_id": "Selena"
+  },
+  {
     "hero_name": "Chou",
     "skin_name": "Michael Jackson",
     "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/refs/heads/main/michael-jackson-portrait-v0-6544v66elo6g1.png",
