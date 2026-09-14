@@ -495,6 +495,15 @@
         "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Gatotkaca%20X%20Venom%20Marvel.zip",
         "enabled": true,
         "featured": false
+      },
+      {
+        "skin_name": "Jiraya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwfJ2XB5rxNNcbFJc5GDi2ZKjl5Ii8qvWxNW-bBuIcMMOo3hWac9bwh_k&s=10",
+        "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/gatot%20jiraya.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Gatotkaca"
       }
     ],
     "enabled": true,
@@ -1080,6 +1089,15 @@
         "skin_name": "Eren HOK",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24OQkSNa6J9sBn9pLlZtv5Wa8wObrOWYcgNm4vftwHOf-jKmSfmaaviFE&s=10",
         "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/yin%20eren.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Yin"
+      },
+      {
+        "skin_name": "Kakashi",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
+        "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/yin%20kakashi.zip",
         "featured": false,
         "enabled": true,
         "name": "",
@@ -1712,6 +1730,15 @@
         "skin_name": "Sasuke",
         "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
         "script": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/sep_26/skin/sun%20sasuke.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Sun"
+      },
+      {
+        "skin_name": "Minato",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Gusion_%28Minato_Namikaze%29.jpg/revision/latest?cb=20260322234004",
+        "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/sun%20minato.zip",
         "featured": false,
         "enabled": true,
         "name": "",
