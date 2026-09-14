@@ -11593,6 +11593,15 @@
             "legend",
             "special"
           ]
+        },
+        {
+          "id": "chou_king_of_muay_thai_to_ken",
+          "name": "Ken",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20elite%20to%20st.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -11897,7 +11906,7 @@
           "id": "chou_go_ballistic_to_ryu",
           "name": "Ryu",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20star%20to%20ryu.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20star%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -12051,7 +12060,7 @@
           "id": "chou_furious_tiger_to_ryu",
           "name": "Ryu",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20stun%20to%20ryu.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20special%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13924,7 +13933,7 @@
           "id": "guinevere_fleur_de_bleau_to_chun_li",
           "name": "Chun-Li",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/guin%20nor%20to%20chun.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20nor%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13983,6 +13992,15 @@
           "skin_tags": [
             "legend"
           ]
+        },
+        {
+          "id": "guinevere_lotus_to_chun_li",
+          "name": "Chun-Li",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20star%20to%20st.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -14032,7 +14050,7 @@
           "id": "guinevere_amethyst_dance_to_chun_li",
           "name": "Chun-Li",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/guin%20emitis%20to%20chun.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20spe%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -14770,7 +14788,7 @@
           "id": "paquito_death_blow_to_ken",
           "name": "Ken",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20nor%20to%20ken.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20nor%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -14825,7 +14843,7 @@
           "id": "paquito_underground_boxer_to_ken",
           "name": "Ken",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20boxer%20to%20ken.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20spe%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -14880,7 +14898,7 @@
           "id": "paquito_fist_of_light_to_ken",
           "name": "Ken",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20fist%20to%20ken.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20spe%20mpl%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -14928,6 +14946,15 @@
           "skin_tags": [
             "kof"
           ]
+        },
+        {
+          "id": "paquito_fulgent_punch_to_ryu",
+          "name": "Ryu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20star%20to%20st.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -15304,7 +15331,7 @@
           "id": "dyrroth_scalebore_to_guile",
           "name": "Guile",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20nor%20to%20guile.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/dy%20nor%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -15372,7 +15399,7 @@
           "id": "dyrroth_ruins_scavenger_to_guile",
           "name": "Guile",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20star%20to%20guile.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20star%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -15828,6 +15855,86 @@
           "name": "Silverbolt Raiko",
           "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
           "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.S.T.U.N.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "guinevere_elegant_butterfly",
+      "hero": "Guinevere",
+      "base_name": "Elegant Butterfly",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114135706",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "guinevere_elegant_butterfly_to_chun_li",
+          "name": "Chun-Li",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20elite%20to%20st.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "guinevere_lady_crane",
+      "hero": "Guinevere",
+      "base_name": "Lady Crane",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165916",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "guinevere_lady_crane_to_chun_li",
+          "name": "Chun-Li",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20luck%20to%20st.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "guinevere_sakura_wishes",
+      "hero": "Guinevere",
+      "base_name": "Sakura Wishes",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165920",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "guinevere_sakura_wishes_to_chun_li",
+          "name": "Chun-Li",
+          "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20sakura%20to%20st.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "paquito_manny_pacquiao",
+      "hero": "Paquito",
+      "base_name": "Manny Pacquiao",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "paquito_manny_pacquiao_to_ryu",
+          "name": "Ryu",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20man%20to%20st.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
