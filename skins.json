@@ -3828,32 +3828,6 @@
       ]
     },
     {
-      "id": "boom",
-      "name": "Boom",
-      "category": "assassin",
-      "enabled": true,
-      "skins": [
-        {
-          "id": "boom_001",
-          "name": "",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest/thumbnail/width/360/height/450?cb=20250917080630",
-          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/thanuz_kungfuassets.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": []
-        },
-        {
-          "id": "boom_002",
-          "name": "",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
-          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/chou_dragon2017.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": []
-        }
-      ]
-    },
-    {
       "id": "brody",
       "name": "Brody",
       "category": "marksman",
@@ -4971,7 +4945,7 @@
           "id": "chou_013",
           "skin_name": "Ken",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20ryu.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/chou%20st.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -6299,7 +6273,7 @@
           "id": "dyrroth_007",
           "skin_name": "Guile",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20guile.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/dy%20st.zip",
           "featured": false,
           "enabled": true,
           "tags": [],
@@ -9550,7 +9524,7 @@
           "id": "guinevere_012",
           "skin_name": "Chun-Li",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/guin%20chun.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/guin%20st.zip",
           "featured": false,
           "enabled": true,
           "tags": [],
@@ -19902,7 +19876,7 @@
           "id": "paquito_010",
           "skin_name": "Ryu",
           "image": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/ryu.png",
-          "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20ken.zip",
+          "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20st.zip",
           "featured": false,
           "enabled": true,
           "tags": [],
