@@ -1546,7 +1546,7 @@
           "id": "lancelot_marques_of_blades_to_swordmaster",
           "name": "Swordmaster",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20elite%20top%20to%20hero.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/lance%20elite%20to%20hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1608,7 +1608,7 @@
           "id": "lancelot_masked_knight_to_swordmaster",
           "name": "Swordmaster",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20normal%20to%20hero.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/lance%20nor%20to%20hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1683,7 +1683,7 @@
           "id": "lancelot_dark_earl_to_swordmaster",
           "name": "Swordmaster",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/lance%20star%20to%20hero.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/lance%20star%20to%20hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2482,6 +2482,15 @@
           "skin_tags": [
             "abyss"
           ]
+        },
+        {
+          "id": "selena_gothic_curse_to_silverbolt_raiko",
+          "name": "Silverbolt Raiko",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20elite%20to%20aspi.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -2531,7 +2540,7 @@
           "id": "selena_wasp_queen_to_silverbolt_raiko",
           "name": "Silverbolt Raiko",
           "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
-          "script": "https://github.com/azizboy2007/DESKTOP-GERMA/raw/refs/heads/main/SELENA%20BASIC%20TO%20ASPIRANT.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20nor%20to%20aspi.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -2571,7 +2580,7 @@
           "id": "selena_double_identity_to_silverbolt_raiko",
           "name": "Silverbolt Raiko",
           "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena%20aspi.png",
-          "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Basic.-.K4IJ1.SFILE.MOBI.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20star%20to%20aspi.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -15935,6 +15944,35 @@
           "name": "Ryu",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
           "script": "https://github.com/missnapokita/sep26/raw/refs/heads/main/paq%20man%20to%20st.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "obsidia_undying_remnants",
+      "hero": "Obsidia",
+      "base_name": "Undying Remnants",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero1302-portrait.png/revision/latest/scale-to-width-down/150?cb=20250629033055",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "obsidia_undying_remnants_to_impeatrix_arashi",
+          "name": "Impeatrix Arashi",
+          "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/obsidia%20aspi.png",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/obsidia%20nor%20to%20aspi.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "obsidia_undying_remnants_to_magitech_wraith",
+          "name": "Magitech Wraith",
+          "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/obsidia%20star%20to%20aspi.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
