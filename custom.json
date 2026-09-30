@@ -1765,5 +1765,25 @@
         "hero_name": "Yi Sun-shin"
       }
     ]
+  },
+  {
+    "hero_name": "Granger",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png/revision/latest/scale-to-width-down/150?cb=20250407160652",
+    "name": "Granger",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Kaito Kid",
+        "image": "https://c4.wallpaperflare.com/wallpaper/24/576/1019/detective-conan-magic-kaito-kaito-kid-cape-wallpaper-preview.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/granger%20kaito.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Granger"
+      }
+    ]
   }
 ]
