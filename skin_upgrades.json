@@ -23,7 +23,7 @@
           "id": "saber_fullmetal_ronin_to_codename_storm",
           "name": "Codename - Storm",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/saber%20elite%20to%20legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20elite%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -87,7 +87,7 @@
           "id": "saber_golden_flash_to_codename_storm",
           "name": "Codename - Storm",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/saber%20normal%20to%20legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20nor%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -356,6 +356,15 @@
           "skin_tags": [
             "christmas"
           ]
+        },
+        {
+          "id": "fanny_campus_youth_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20el%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -455,6 +464,15 @@
           "skin_tags": [
             "starlight"
           ]
+        },
+        {
+          "id": "fanny_punk_princess_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20s%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -544,6 +562,15 @@
           "skin_tags": [
             "christmas"
           ]
+        },
+        {
+          "id": "fanny_lifeguard_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20sum%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -622,6 +649,15 @@
           "skin_tags": [
             "valentine"
           ]
+        },
+        {
+          "id": "fanny_royal_cavalry_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20star%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -689,6 +725,15 @@
           "skin_tags": [
             "christmas"
           ]
+        },
+        {
+          "id": "fanny_lightborn_ranger_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20lb%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -733,6 +778,15 @@
           "skin_tags": [
             "attack_on_titan"
           ]
+        },
+        {
+          "id": "fanny_christmas_carnival_fanny_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20xmas%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -797,6 +851,15 @@
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
+        },
+        {
+          "id": "fanny_imperial_warrior_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20imperial%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -828,6 +891,15 @@
           "skin_tags": [
             "the_aspirants"
           ]
+        },
+        {
+          "id": "fanny_heart_afloat_to_galactic_starhawk",
+          "name": "Galactic Starhawk",
+          "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20valin%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -855,7 +927,7 @@
           "id": "hayabusa_future_enforcer_to_shura",
           "name": "Shura",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20blue%20to%2011.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/23cd4e38-muve3tiq-1-zeqkv-haya-elite-fu-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -921,7 +993,7 @@
           "id": "hayabusa_techie_ninja_to_shura",
           "name": "Shura",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20elite%20green%20to%2011.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/249cf5f8-muve470x-1-l8ab6-haya-elite-top-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -985,7 +1057,7 @@
           "id": "hayabusa_spacetime_shadow_to_shura",
           "name": "Shura",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20normal%20to%2011.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/d6f68d03-muve4we3-1-5g74d-haya-nor-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1069,7 +1141,7 @@
           "id": "hayabusa_biological_weapon_to_shura",
           "name": "Shura",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20star%20to%2011.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/8462fe1a-muve4jwo-1-nzcxk-haya-n-star-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1120,7 +1192,7 @@
           "id": "hayabusa_sushi_master_to_shura",
           "name": "Shura",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/haya%20summer%20to%2011.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/4d74e325-muve5mme-1-4yggb-haya-summer-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1888,7 +1960,7 @@
           "id": "gusion_hairstylist_to_dimension_walker",
           "name": "Dimension Walker",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20elite%20to%2011.11.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/d6c47c59-muve1y5c-1-0bl8w-gus-elite-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1974,7 +2046,7 @@
           "id": "gusion_moonlight_sonata_to_dimension_walker",
           "name": "Dimension Walker",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20normal%20to%2011.11.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c487a9a9-muve2gde-1-eavyh-gus-nor-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2159,7 +2231,7 @@
           "id": "gusion_cyber_ops_to_dimension_walker",
           "name": "Dimension Walker",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20star%20to%2011.11.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/5895b529-muve2mu1-1-a5gho-gus-old-star-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2311,7 +2383,7 @@
           "id": "gusion_dangerous_liaison_to_dimension_walker",
           "name": "Dimension Walker",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/gusion%20valine%20to%2011.11.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f7a7793d-muve2t8z-1-53bym-gus-valine-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2443,7 +2515,7 @@
           "id": "gusion_desert_spider_to_dimension_walker",
           "name": "Dimension Walker",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Gusion/Gusion%20Starlight%20-%20Desert%20Spider/Gusion%20Starlight%20-%20Desert%20Spider%20to%201111.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f9ab804c-muve290t-1-2zid5-gus-n-star-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -3340,8 +3412,8 @@
         {
           "id": "nolan_voidwalker_to_the_navigator",
           "name": "The Navigator",
-          "image": "https://pbs.twimg.com/media/GZh9kwoaAAEhSei?format=jpg&name=large",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Nolan%20Normal%20to%2011.zip",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1224-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142659",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/48014ec6-muve6cgk-1-yp4ln-nolan-nor-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -3374,7 +3446,7 @@
           "id": "nolan_fashion_mogul_to_the_navigator",
           "name": "The Navigator",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1224-portrait.png/revision/latest?cb=20241012142659",
-          "script": "https://github.com/missnapokita/Nov2024fix/raw/refs/heads/main/nolan%20star%20to%2011.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/391817f7-muve6mit-1-o7elb-nolan-star-to-11.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -5317,7 +5389,7 @@
           "id": "bruno_street_football_to_firebolt",
           "name": "Firebolt",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
-          "script": "https://github.com/missnapokita/July-24-MM-Upgrade/raw/main/bruno%20elite%20street%20to%20hero.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/hero/bruno%20elite%20st%20to%20hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -5348,7 +5420,7 @@
           "id": "bruno_vanguard_elite_to_firebolt",
           "name": "Firebolt",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
-          "script": "https://github.com/missnapokita/July-24-MM-Upgrade/raw/main/bruno%20elite%20to%20hero.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/hero/bruno%20elite%20van%20to%20hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -5381,7 +5453,7 @@
           "id": "bruno_best_dj_to_firebolt",
           "name": "Firebolt",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
-          "script": "https://github.com/missnapokita/July-24-MM-Upgrade/raw/main/bruno%20special%20to%20hero.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/hero/bruno%20dj%20to%20hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -8579,7 +8651,7 @@
           "id": "gord_professor_of_hell_to_conqueror",
           "name": "Conqueror",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest?cb=20240114091737",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Gord%20Normal%20to%20LEGEND.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/gord%20nor%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -8645,7 +8717,7 @@
           "id": "gord_new_baron_to_conqueror",
           "name": "Conqueror",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest?cb=20240114091737",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Gord%20Season%20to%20LEGEND.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/gord%20s%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -10901,7 +10973,7 @@
           "id": "alucard_empire_agent_to_obsidian_blade",
           "name": "Obsidian Blade",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_empireAgent_legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20empire%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -10954,7 +11026,7 @@
           "id": "alucard_lone_hero_to_obsidian_blade",
           "name": "Obsidian Blade",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_basic_legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20nor%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -11050,7 +11122,7 @@
           "id": "alucard_fiery_inferno_to_obsidian_blade",
           "name": "Obsidian Blade",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_season_legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20s%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -11126,7 +11198,7 @@
           "id": "alucard_viscount_to_obsidian_blade",
           "name": "Obsidian Blade",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alucard_SL_legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20star%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -11419,7 +11491,7 @@
           "id": "freya_dark_rose_to_galactic_vanquisher",
           "name": "Galactic Vanquisher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
-          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/FREYA%20BASIC%20TO%20LEGEND.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/frey%20nor%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -11459,7 +11531,7 @@
           "id": "freya_dragon_hunter_to_galactic_vanquisher",
           "name": "Galactic Vanquisher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
-          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20starlight%20to%20legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/frey%20ol%20star%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -11538,7 +11610,7 @@
           "id": "chou_king_of_muay_thai_to_thunderfist",
           "name": "Thunderfist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Elite%20to%20HERO.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/fbf06941-muvdv6ln-1-703ji-chou-elite-to-hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -11727,7 +11799,7 @@
           "id": "chou_hip_hop_boy_to_thunderfist",
           "name": "Thunderfist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Basic%20to%20HERO.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/26374285-muvdvj2y-1-wkixf-chou-nor-to-hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -11870,7 +11942,7 @@
           "id": "chou_go_ballistic_to_thunderfist",
           "name": "Thunderfist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Starlight%20to%20HERO.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/9047871a-muvdvwr6-1-idmt9-chou-star-to-hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -11960,7 +12032,7 @@
           "id": "chou_s_t_u_n_chou_to_thunderfist",
           "name": "Thunderfist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
-          "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20S.T.U.N/Chou%20STUN%20to%20Dawning%20Stars.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/589ff9a2-muvdw2x8-1-hkz73-chou-stun-to-hero.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -12075,6 +12147,15 @@
           "skin_tags": [
             "streetfighters"
           ]
+        },
+        {
+          "id": "chou_furious_tiger_to_thunderfist",
+          "name": "Thunderfist",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f5e23750-muvdvpki-1-12w3u-chou-spe-to-hero.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -12262,7 +12343,7 @@
           "id": "alpha_fierce_dragon_to_revenant_of_roses",
           "name": "Revenant of Roses",
           "image": "https://pbs.twimg.com/media/GlboX4PbkAAXXgh?format=jpg&name=small",
-          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F9%20ALPHA%20BASIC%20TO%20LEGEND.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alpha%20nor%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -12307,7 +12388,7 @@
           "id": "alpha_sea_gladiator_to_mecha_king_perseus",
           "name": "Mecha-King Perseus",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero288-portrait.png/revision/latest?cb=20240503043857",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Alpha%20Season%20to%20COLL.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alpha%20s%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -12370,7 +12451,7 @@
           "id": "alpha_crimson_warrior_to_revenant_of_roses",
           "name": "Revenant of Roses",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
-          "script": "https://github.com/missnapokita/march-2025/raw/refs/heads/main/alpha%20special%20to%20legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alpha%20spe%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -12402,7 +12483,7 @@
           "id": "alpha_star_enforcer_to_revenant_of_roses",
           "name": "Revenant of Roses",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
-          "script": "https://github.com/missnapokita/march-2025/raw/refs/heads/main/alpha%20star%20to%20legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alpha%20star%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -15834,7 +15915,7 @@
           "id": "freya_gladiator_to_galactic_vanguisher",
           "name": "Galactic Vanguisher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
-          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20elite%20to%20legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/frey%20elite%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -15973,6 +16054,106 @@
           "name": "Magitech Wraith",
           "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
           "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/obsidia%20star%20to%20aspi.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "bruno_street_hype",
+      "hero": "Bruno",
+      "base_name": "Street Hype",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero127-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091333",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bruno_street_hype_to_firebolt",
+          "name": "Firebolt",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/hero/bruno%20star%20to%20hero.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "alucard_demon_s_bane",
+      "hero": "Alucard",
+      "base_name": "Demon's Bane",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero100711-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045033",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "alucard_demon_s_bane_to_obsidian_blade",
+          "name": "Obsidian Blade",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603013303",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20sp%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "gord_imperator_vitalis",
+      "hero": "Gord",
+      "base_name": "Imperator Vitalis",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero238-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101440",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "gord_imperator_vitalis_to_conqueror",
+          "name": "Conqueror",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/gord%20star%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "saber_iron_hound",
+      "hero": "Saber",
+      "base_name": "Iron Hound",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero039-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103121",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "saber_iron_hound_to_codename_storm",
+          "name": "Codename - Storm",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011956",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20n%20star%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "saber_force_warrior",
+      "hero": "Saber",
+      "base_name": "Force Warrior",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero033-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164328",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "saber_force_warrior_to_codename_storm",
+          "name": "Codename - Storm",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011956",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20old%20star%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
