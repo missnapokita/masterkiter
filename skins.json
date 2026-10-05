@@ -951,7 +951,7 @@
           "id": "alpha_007",
           "skin_name": "Revenant of Roses",
           "image": "https://pbs.twimg.com/media/GlboX4PbkAAXXgh?format=jpg&name=small",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/alpha_def_legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alpha%20legend.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -1085,7 +1085,7 @@
           "id": "alucard_004",
           "skin_name": "Obsidian Blade",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
-          "script": "https://github.com/zetsuya05/january/raw/refs/heads/main/alucard_legend-revamped.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20legend.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -4122,7 +4122,7 @@
           "id": "bruno_003",
           "skin_name": "Firebolt",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest?cb=20220525164552",
-          "script": "https://github.com/tin0521/mm/raw/main/bruno_firebolt.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/hero/bruno%20hero.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -5006,7 +5006,7 @@
           "id": "chou_004",
           "skin_name": "Thunderfist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cb=20220525164856",
-          "script": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Default/Chou%20Dawning%20Stars.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/47c5f5c1-muvdvczy-1-xncn1-chou-hero.zip",
           "featured": false,
           "enabled": true,
           "tags": [],
@@ -6773,7 +6773,7 @@
           "id": "esmeralda_007",
           "skin_name": "The Foreseer",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero817-portrait.png/revision/latest?cb=20220525165938",
-          "script": "https://github.com/tin0521/mge/raw/main/esme_dawning.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/1dab372e-muve0yk6-1-fv7ui-esme-hero.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -7307,7 +7307,7 @@
           "id": "fanny_002",
           "skin_name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F8%20FANNY%20LEGEND.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20legend.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -8228,9 +8228,9 @@
         },
         {
           "id": "freya_002",
-          "name": "",
+          "skin_name": "",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
-          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/FREYA%20LEGEND%20DEFAULT.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/frey%20legend.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -8240,7 +8240,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Legend Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "freya_003",
@@ -8734,7 +8735,7 @@
           "id": "gord_003",
           "skin_name": "Conqueror",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest?cb=20240114091737",
-          "script": "https://github.com/tin0521/mge/raw/main/gord_legend.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/gord%20legend.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -10084,7 +10085,7 @@
           "id": "gusion_009",
           "skin_name": "Dimension Walker",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero105611-portrait.png/revision/latest?cb=20221103134623",
-          "script": "https://github.com/tin0521/assn/raw/refs/heads/main/gusion_dimensionwalker.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/7d617169-muve1qth-1-pd7w4-gus-11.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -11097,7 +11098,7 @@
           "id": "hayabusa_002",
           "skin_name": "Shura",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero218-portrait.png/revision/latest?cb=20220525164757",
-          "script": "https://github.com/tin0521/assn/raw/refs/heads/main/hayabusa_shura.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/7ef4b1df-muve3gsq-1-c3tqv-haya-11.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -19350,7 +19351,7 @@
           "id": "nolan_004",
           "skin_name": "The Navigator",
           "image": "https://i.pinimg.com/736x/44/65/8d/44658ddc5580cd03d75fc88aa6032fe4.jpg",
-          "script": "https://github.com/tin0521/assn/raw/refs/heads/main/nolan_thenavigator.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/8673cad4-muve61k9-1-sx4yr-nolan-11.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -21391,8 +21392,9 @@
         },
         {
           "id": "saber_003",
+          "skin_name": "Codename - Storm",
           "image": "https://github.com/Mexica23/april_images/raw/refs/heads/main/saber_legendPor.jpg",
-          "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_codename.zip",
+          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20legend.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -21403,7 +21405,6 @@
               "file": "Legend Skin Tag.png"
             }
           ],
-          "skin_name": "Codename - Storm",
           "name": ""
         },
         {
