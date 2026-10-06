@@ -442,7 +442,7 @@
           "id": "aldous_005",
           "skin_name": "Realm Watcher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
-          "script": "https://github.com/tin0521/neww/raw/main/aldous_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/466c14dc-muwpxl15-1-xflgl-aldous-collector.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -2409,7 +2409,7 @@
           "id": "badang_003",
           "skin_name": "Fist of Zen",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-          "script": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/badang_collectorR.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/000a6961-muwpz8f4-1-ry9ot-badang-collector.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -3866,7 +3866,7 @@
           "id": "brody_002",
           "skin_name": "Ore-chemist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
-          "script": "https://github.com/tin0521/mm/raw/main/brody_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/4df69f77-muwq2yb8-1-8mmf7-brod-collector.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -4087,6 +4087,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "bruno_008",
+          "skin_name": "The Purifier",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/2770721f-muwq47p7-1-r89o6-brun-collector.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
@@ -5640,7 +5650,7 @@
           "id": "clint_002",
           "skin_name": "Cosmic Blast",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest?cb=20230316133647",
-          "script": "https://github.com/tin0521/mm/raw/main/clint_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/47173990-muwq9f4n-1-ahh7y-clint-collector.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -14282,6 +14292,35 @@
           "name": ""
         },
         {
+          "id": "kimmy_008",
+          "skin_name": "Starbound Sentry",
+          "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/ddf3eb33-muwqgfxl-1-ry9ff-kim-collector.zip",
+          "featured": true,
+          "enabled": true,
+          "tags": [
+            {
+              "id": "collector",
+              "name": "Collector",
+              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75",
+              "file": "Collector Skin Tag.png"
+            },
+            {
+              "id": "kimmy",
+              "name": "kimmy",
+              "icon": "",
+              "file": ""
+            },
+            {
+              "id": "marksman",
+              "name": "marksman",
+              "icon": "",
+              "file": ""
+            }
+          ],
+          "name": ""
+        },
+        {
           "id": "kimmy_002",
           "skin_name": "Frost Wing",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest?cb=20220525165743",
@@ -14439,35 +14478,6 @@
               "name": "Elite",
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Elite Skin Tag.png"
-            },
-            {
-              "id": "kimmy",
-              "name": "kimmy",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
-        },
-        {
-          "id": "kimmy_008",
-          "skin_name": "Starbound Sentry",
-          "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
-          "script": "https://github.com/zetsuya05/january/raw/main/kimmy_collector.zip",
-          "featured": true,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "collector",
-              "name": "Collector",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "file": "Collector Skin Tag.png"
             },
             {
               "id": "kimmy",
@@ -15937,7 +15947,7 @@
           "id": "ling_003",
           "skin_name": "Serene Plume",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
-          "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/ling_def_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b84774d8-muwqijyr-1-znwbd-ling-collector.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -19897,7 +19907,7 @@
           "id": "paquito_002",
           "skin_name": "Blazing Tiger",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
-          "script": "https://github.com/tin0521/ff/raw/refs/heads/main/pacquito_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/910703ba-muwqju2t-1-g6bx0-paq-collector.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -24507,7 +24517,7 @@
           "id": "yi_sun_shin_002",
           "skin_name": "Lone Destructor",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_def_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f3a51595-muwqo0px-1-ojnnh-yss-collector.zip",
           "featured": true,
           "enabled": true,
           "tags": [
