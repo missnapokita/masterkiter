@@ -1,5 +1,13 @@
 [
   {
+    "hero_name": "Bruno",
+    "skin_name": "The Purifier",
+    "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/collector/HQ0T_cOXgAAemmo.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/2770721f-muwq47p7-1-r89o6-brun-collector.zip",
+    "hero_id": "Bruno"
+  },
+  {
     "hero_name": "Obsidia",
     "skin_name": "Imperatrix Arashi",
     "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena-obsidia-aspirants-skin-splash-art-v0-cbjo33hz24jh1.jpg",
