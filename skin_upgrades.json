@@ -1291,7 +1291,7 @@
           "id": "yi_sun_shin_major_general_to_lone_destructor",
           "name": "Lone Destructor",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_basic_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/1306deeb-muwqo89h-1-28wjo-yss-nor-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1322,7 +1322,7 @@
           "id": "yi_sun_shin_apocalypse_agent_to_lone_destructor",
           "name": "Lone Destructor",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_apocalyps_cillector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f99857b8-muwqnpko-1-ih6ih-yss-apo-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1353,7 +1353,7 @@
           "id": "yi_sun_shin_roguish_ranger_to_lone_destructor",
           "name": "Lone Destructor",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_roguish_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/42c62416-muwqofvw-1-f8gx3-yss-rog-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -1415,7 +1415,7 @@
           "id": "yi_sun_shin_fleet_warden_to_lone_destructor",
           "name": "Lone Destructor",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-          "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_fleet_collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/0c8d2af0-muwqp1nf-1-tfvhv-yss-star-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2765,7 +2765,7 @@
           "id": "ling_night_shade_to_serene_plume",
           "name": "Serene Plume",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
-          "script": "https://github.com/missnapokita/Assup/raw/main/ling%20epic%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/29d765cf-muwqiqlg-1-8d5jw-ling-drag-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2831,7 +2831,7 @@
           "id": "ling_fiery_dance_to_serene_plume",
           "name": "Serene Plume",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
-          "script": "https://github.com/missnapokita/Assup/raw/main/ling%20normal%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/92f84800-muwqiwem-1-shdmp-ling-nor-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2917,7 +2917,7 @@
           "id": "ling_street_funk_to_serene_plume",
           "name": "Serene Plume",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
-          "script": "https://github.com/missnapokita/Assup/raw/main/ling%20star%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a85531f9-muwqj8qx-1-xowh5-ling-star-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -2972,7 +2972,7 @@
           "id": "ling_cosmo_guard_to_serene_plume",
           "name": "Serene Plume",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest?cb=20220525170020",
-          "script": "https://github.com/missnapokita/Assup/raw/main/ling%20special%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/ecc07cb7-muwqj2qb-1-30n04-ling-spe-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -5395,6 +5395,15 @@
           "skin_tags": [
             "elite"
           ]
+        },
+        {
+          "id": "bruno_street_football_to_the_purifier",
+          "name": "The Purifier",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/d37c38a8-muwq4sst-1-h339a-brun-elite-st-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -5426,6 +5435,15 @@
           "skin_tags": [
             "elite"
           ]
+        },
+        {
+          "id": "bruno_vanguard_elite_to_the_purifier",
+          "name": "The Purifier",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a49f48ca-muwq55re-1-uooq2-brun-elite-van-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -5459,6 +5477,15 @@
           "skin_tags": [
             "special"
           ]
+        },
+        {
+          "id": "bruno_best_dj_to_the_purifier",
+          "name": "The Purifier",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/def1e0a0-muwq4hgi-1-sggiu-brun-dj-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -5484,7 +5511,7 @@
           "id": "clint_sun_n_sand_to_cosmic_blast",
           "name": "Cosmic Blast",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest?cb=20230316133647",
-          "script": "https://github.com/missnapokita/Up-tank/raw/main/clint%20elite%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a3b1af1c-muwqao02-1-2t5a7-clint-sum-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -5588,6 +5615,15 @@
           "skin_tags": [
             "m2"
           ]
+        },
+        {
+          "id": "clint_rock_and_roll_to_crimson_blast",
+          "name": "Crimson Blast",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/35927b82-muwqafgr-1-32te8-clint-star-rock-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -5613,7 +5649,7 @@
           "id": "clint_witch_hunter_to_cosmic_blast",
           "name": "Cosmic Blast",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest?cb=20230316133647",
-          "script": "https://github.com/missnapokita/Up-tank/raw/main/clint%20season%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/4a3291ee-muwq9pml-1-2s7de-clint-s-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -7211,6 +7247,15 @@
           "skin_tags": [
             "dragon_tamer"
           ]
+        },
+        {
+          "id": "kimmy_steam_researcher_to_starbound_sentry",
+          "name": "Starbound Sentry",
+          "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b1ea3375-muwqgs8q-1-7pfrm-kim-nor-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -7268,6 +7313,15 @@
             "starlight",
             "dragon_tamer"
           ]
+        },
+        {
+          "id": "kimmy_bio_frontier_to_starbound_sentry",
+          "name": "Starbound Sentry",
+          "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/31f65f1a-muwqha9t-1-p1wpy-kim-star-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -7326,6 +7380,15 @@
             "legend",
             "special"
           ]
+        },
+        {
+          "id": "kimmy_charge_leader_to_starbound_sentry",
+          "name": "Starbound Sentry",
+          "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/eb152229-muwqgyja-1-g6lr8-kim-spe-c-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -7404,6 +7467,15 @@
             "legend",
             "luckybox"
           ]
+        },
+        {
+          "id": "kimmy_rising_nova_to_starbound_sentry",
+          "name": "Starbound Sentry",
+          "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a27906c4-muwqh4lz-1-rhm82-kim-spe-r-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -7451,6 +7523,15 @@
             "legend",
             "luckybox"
           ]
+        },
+        {
+          "id": "kimmy_high_seas_cadet_to_starbound_sentry",
+          "name": "Starbound Sentry",
+          "image": "https://github.com/zetsuya05/january/raw/main/kimmy_collectorimages.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/48ab68cd-muwqgmp3-1-e4dww-kim-elite-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -8003,7 +8084,7 @@
           "id": "brody_nameless_stray_to_ore_chemist",
           "name": "Ore-chemist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Brody%20Basic%20to%20COLLECTOR.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/465b2991-muwq3d4q-1-jhyu8-brod-nor-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -8098,7 +8179,7 @@
           "id": "brody_lethal_fang_to_ore_chemist",
           "name": "Ore-chemist",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1005-portrait.png/revision/latest?cb=20220525170323",
-          "script": "https://github.com/missnapokita/July-24-MM-Upgrade/raw/main/brody%20stun%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f8e5b3f6-muwq3mff-1-e6g75-brod-star-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13339,7 +13420,7 @@
           "id": "aldous_death_to_realm_watcher",
           "name": "Realm Watcher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
-          "script": "https://github.com/missnapokita/July-Upgrade-Fighter/raw/main/aldous%20elite%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f4994e8c-muwpxrfa-1-4mydl-aldous-elite-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13405,7 +13486,7 @@
           "id": "aldous_red_mantle_to_realm_watcher",
           "name": "Realm Watcher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
-          "script": "https://github.com/missnapokita/July-Upgrade-Fighter/raw/main/aldous%20normal%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c765b3bc-muwpxx20-1-jco23-aldous-nor-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13465,7 +13546,7 @@
           "id": "aldous_the_insentient_to_realm_watcher",
           "name": "Realm Watcher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cb=20220525165624",
-          "script": "https://github.com/missnapokita/July-Upgrade-Fighter/raw/main/aldous%20star%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/69f1a805-muwpya1s-1-2ivp9-aldous-star-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13895,7 +13976,7 @@
           "id": "badang_ironfist_to_fist_of_zen",
           "name": "Fist of Zen",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-          "script": "https://github.com/missnapokita/august_skin2024/raw/main/badang%20normal%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/2303fd8f-muwpzi5i-1-joz5u-badang-nor-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13946,7 +14027,7 @@
           "id": "badang_susanoo_to_fist_of_zen",
           "name": "Fist of Zen",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest?cb=20220525165821",
-          "script": "https://github.com/missnapokita/august_skin2024/raw/main/badang%20special%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/faafaaa6-muwq008y-1-dj0sc-badang-spe-susa-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -14845,7 +14926,7 @@
           "id": "paquito_death_blow_to_blazing_tiger",
           "name": "Blazing Tiger",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
-          "script": "https://github.com/missnapokita/fightupgrade/raw/main/paquito%20normal%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/83844c06-muwqk1iw-1-dxy10-paq-nor-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -14909,7 +14990,7 @@
           "id": "paquito_underground_boxer_to_blazing_tiger",
           "name": "Blazing Tiger",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
-          "script": "https://github.com/missnapokita/fightupgrade/raw/main/paquito%20special%20box%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b6182d9f-muwqkgos-1-wm59i-paq-spe-boxer-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -14976,7 +15057,7 @@
           "id": "paquito_fist_of_light_to_blazing_tiger",
           "name": "Blazing Tiger",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
-          "script": "https://github.com/missnapokita/fightupgrade/raw/main/paquito%20special%20light%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/24f3f3e3-muwqkomw-1-6ngoy-paq-spe-fist-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -15019,7 +15100,7 @@
           "id": "paquito_fulgent_punch_to_blazing_tiger",
           "name": "Blazing Tiger",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
-          "script": "https://github.com/missnapokita/fightupgrade/raw/main/paquito%20star%20to%20collector.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/df9bf317-muwqkwq2-1-eh61a-paq-star-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -16028,6 +16109,15 @@
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
+        },
+        {
+          "id": "paquito_manny_pacquiao_to_blazing_tiger",
+          "name": "Blazing Tiger",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163428",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b6a3aae7-muwqk8ge-1-ybz30-paq-pac-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ]
     },
@@ -16074,6 +16164,15 @@
           "name": "Firebolt",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero126-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164552",
           "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/hero/bruno%20star%20to%20hero.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "bruno_street_hype_to_the_purifier",
+          "name": "The Purifier",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/0f82752e-muwq5ngh-1-zyng5-brun-star-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -16154,6 +16253,146 @@
           "name": "Codename - Storm",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011956",
           "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20old%20star%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "aldous_fathom_terror",
+      "hero": "Aldous",
+      "base_name": "Fathom Terror",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero106410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142553",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "aldous_fathom_terror_to_realm_watcher",
+          "name": "Realm Watcher",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619034714",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/79754c5b-muwpy3fa-1-sllnw-aldous-spe-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "badang_steel_arms",
+      "hero": "Badang",
+      "base_name": "Steel Arms",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero775-portrait.png/revision/latest/scale-to-width-down/150?cb=20250703151409",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "badang_steel_arms_to_fist_of_zen",
+          "name": "Fist of Zen",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero776-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050333",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/3f1ca65a-muwpzqii-1-h1uw6-badang-spe-arm-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "bruno_the_falcon",
+      "hero": "Bruno",
+      "base_name": "The Falcon",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero125-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164551",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bruno_the_falcon_to_the_purifier",
+          "name": "The Purifier",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142819",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c6cf3a79-muwq5em6-1-jbubk-brun-falcon-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "clint_badminton_champion",
+      "hero": "Clint",
+      "base_name": "Badminton Champion",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164559",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "clint_badminton_champion_to_crimson_blast",
+          "name": "Crimson Blast",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c6a3e96f-muwq9yvj-1-rflvc-clint-spe-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "clint_operator_cl",
+      "hero": "Clint",
+      "base_name": "Operator CL",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164603",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "clint_operator_cl_to_crimson_blast",
+          "name": "Crimson Blast",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a30ed3e8-muwqa767-1-m61r8-clint-star-op-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "yi_sun_shin_surging_torrent",
+      "hero": "Yi Sun-Shin",
+      "base_name": "Surging Torrent",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero308-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114092145",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "yi_sun_shin_surging_torrent_to_astral_wanderer",
+          "name": "Astral Wanderer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/34d226b9-muwqon5k-1-gatdj-yss-s-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "yi_sun_shin_wavebreaker",
+      "hero": "Yi Sun-Shin",
+      "base_name": "Wavebreaker",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero309-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603005757",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "yi_sun_shin_wavebreaker_to_astral_wanderer",
+          "name": "Astral Wanderer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/fa6be590-muwqoumr-1-yv8io-yss-spe-to-collector.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
