@@ -15,6 +15,15 @@
         "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/phov%20jiraya.zip",
         "featured": false,
         "enabled": true
+      },
+      {
+        "skin_name": "Ace",
+        "image": "https://images8.alphacoders.com/872/thumb-1920-872837.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/064ba4ee-mvbynylf-1-ywo5u-ace-x-phov.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Phoveus"
       }
     ],
     "enabled": true
@@ -642,6 +651,33 @@
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip",
     "targets": [
       {
+        "skin_name": "Denji",
+        "image": "https://wallpapers.com/images/hd/all-anime-chainsaw-man-denji-bcum1oc88t5mw92t.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c323f92a-mvbyocxz-1-i3q9g-argus-denji.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Asta",
+        "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/12/black-clover-season-2-new-anime-with-asta-holding-a-sword-and-grinning.jpg?w=1600&h=1200&fit=crop",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/853d18ed-mvbyowug-1-ecly3-argus-x-asta.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Guts",
+        "image": "https://i.pinimg.com/736x/d9/ca/67/d9ca679e5874fabb2cba91437c767a66.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/6d5f6bdf-mvbyoltn-1-wa9et-argus-guts.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
         "hero_name": "Argus",
         "skin_name": "Hidan",
         "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20hidan.png",
@@ -849,6 +885,15 @@
         "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip",
         "enabled": true,
         "featured": false
+      },
+      {
+        "skin_name": "Roger",
+        "image": "https://images7.alphacoders.com/132/1323417.jpeg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/47eb3733-mvbyo844-1-w0uc3-alu-roger.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Alucard"
       }
     ],
     "enabled": true,
@@ -990,6 +1035,15 @@
         "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/94/9400001.zip",
         "enabled": true,
         "featured": false
+      },
+      {
+        "skin_name": "Ted Lutz",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/1922713264217022464/img/2bm5ub3gyXvb4Q0p?format=webp&name=medium",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/anime/popol%20x%20subway.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Popol & Kupa"
       }
     ],
     "enabled": true,
@@ -1157,6 +1211,15 @@
     "enabled": true,
     "targets": [
       {
+        "skin_name": "Spiderman",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2FhZmNhMTUtMWJkNy00NTUzLTk1ZjQtOGM5YjYxNTZjOTlkXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,500,281_.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/142960f3-mvbyp4o4-1-sozrs-fanny-spider.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Fanny"
+      },
+      {
         "skin_name": "Mikasa HOK",
         "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/fanny.png",
         "script": "https://raw.githubusercontent.com/missnapokita/Hok/main/skin/fanny%20mikasa.zip",
@@ -1245,6 +1308,15 @@
     "featured": false,
     "enabled": true,
     "targets": [
+      {
+        "skin_name": "Zenitsu",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6RX4ihD0lN0iaBoRb0nkT0JqopBNB3Cr2DBfLt1q7QFoqjwDrxM2jWM0&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/anime/lance%20zenitsu.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lancelot"
+      },
       {
         "skin_name": "Charlotte",
         "image": "https://raw.githubusercontent.com/missnapokita/Hok/main/img/lance.png",
@@ -1783,6 +1855,26 @@
         "enabled": true,
         "name": "",
         "hero_name": "Granger"
+      }
+    ]
+  },
+  {
+    "hero_name": "Suyou",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1261-portrait.png/revision/latest/scale-to-width-down/150?cb=20250412174335",
+    "name": "Suyou",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Yuuta",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKGEjRby544ltz5VdmgrNWb1qRnULg-kGcX3YARLDiq2gIfgDOysNv40&s=10",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/7b046b4e-mvbypj2d-1-5fnef-suyou-yuta.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Suyou"
       }
     ]
   }
