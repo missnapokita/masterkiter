@@ -352,6 +352,16 @@
           "name": ""
         },
         {
+          "id": "aldous_009",
+          "skin_name": "Oni Kabuto",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20annualstar.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "aldous_002",
           "skin_name": "King of Supremacy",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
@@ -9292,6 +9302,16 @@
           "name": ""
         },
         {
+          "id": "grock_009",
+          "skin_name": "Colossus of Light",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20FMVP.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "grock_002",
           "skin_name": "Codename: Rhino",
           "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_123451.jpg",
@@ -11102,6 +11122,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "hayabusa_011",
+          "skin_name": "Kitsune's Shadow",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20starlight.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
@@ -13101,6 +13131,16 @@
           "name": ""
         },
         {
+          "id": "kagura_011",
+          "skin_name": "Feast of Enternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Legend.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
+        },
+        {
           "id": "kagura_002",
           "skin_name": "Water Lily",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest?cb=20220525164845",
@@ -13524,7 +13564,7 @@
     },
     {
       "id": "kalea",
-      "name": "Kalea",
+      "name": "Khalea",
       "category": "support",
       "enabled": true,
       "skins": [
@@ -13555,6 +13595,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "kalea_003",
+          "skin_name": "Tideborn Sialor",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kalea.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Khalea%20starlight.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
@@ -14856,6 +14906,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "lapu-lapu_007",
+          "skin_name": "Aurora Gaming",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lapulapu%20champion.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
@@ -16851,6 +16911,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "lylia_007",
+          "skin_name": "Dragon Charmer",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lylia%20Collector.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
@@ -23245,6 +23315,16 @@
               "file": ""
             }
           ],
+          "name": ""
+        },
+        {
+          "id": "valentina_007",
+          "skin_name": "Jewel of Envy",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/valintina.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Valentina%20myth.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
           "name": ""
         },
         {
