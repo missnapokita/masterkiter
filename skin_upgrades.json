@@ -966,6 +966,15 @@
           "skin_tags": [
             "naruto"
           ]
+        },
+        {
+          "id": "hayabusa_future_enforcer_to_kitsune_s_shadow",
+          "name": "Kitsune's Shadow",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Elite%20to%20Starlight.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -1027,6 +1036,15 @@
           "name": "Kakashi Hatake",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest?cb=20250411101503",
           "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F15%20Hayabusa%20Techie%20to%20Kakashi.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "hayabusa_techie_ninja_to_kitsune_s_shadow",
+          "name": "Kitsune's Shadow",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Elite%20Topup%20to%20Starlight.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -1116,6 +1134,15 @@
           "skin_tags": [
             "annual_starlight"
           ]
+        },
+        {
+          "id": "hayabusa_spacetime_shadow_to_kitsune_s_shadow",
+          "name": "Kitsune's Shadow",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Basic%20to%20starlight.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -1231,6 +1258,15 @@
           "skin_tags": [
             "limited"
           ]
+        },
+        {
+          "id": "hayabusa_sushi_master_to_kitsune_s_shadow",
+          "name": "Kitsune's Shadow",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/haya.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Hayabusa%20Summer%20to%20Starlight.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -4998,7 +5034,7 @@
     },
     {
       "id": "kalea_shimmering_waves",
-      "hero": "Kalea",
+      "hero": "Khalea",
       "base_name": "Shimmering Waves",
       "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1282-portrait.png/revision/latest?cb=20250307123931",
       "backup_script": "https://github.com/missnapokita/April-2025/raw/main/kalea%20backup.zip",
@@ -5018,6 +5054,15 @@
           "name": "Sakura Haruno",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
           "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/kalea_basic_sakura.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "kalea_shimmering_waves_to_tideborn_sailor",
+          "name": "Tideborn Sailor",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kalea.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Khalea%20basic%20to%20starlight.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -8926,6 +8971,15 @@
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
+        },
+        {
+          "id": "kagura_flower_season_to_feast_of_eternity",
+          "name": "Feast of Eternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Basic%20to%20Legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -8981,6 +9035,15 @@
             "the_exorcists",
             "special"
           ]
+        },
+        {
+          "id": "kagura_cherry_witch_to_feast_of_eternity",
+          "name": "Feast of Eternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Special%20to%20LEgend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -9021,6 +9084,15 @@
           "skin_tags": [
             "the_exorcists"
           ]
+        },
+        {
+          "id": "kagura_rainy_walk_to_feast_of_eternity",
+          "name": "Feast of Eternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20starlight%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -9076,6 +9148,15 @@
             "the_exorcists",
             "summer"
           ]
+        },
+        {
+          "id": "kagura_summer_festival_to_feast_of_eternity",
+          "name": "Feast of Eternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Summer%20to%20Legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -10371,6 +10452,15 @@
           "skin_tags": [
             "starlight"
           ]
+        },
+        {
+          "id": "lylia_school_idol_to_dragon_charmer",
+          "name": "Dragon Charmer",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lylia%20Basic%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -10402,6 +10492,15 @@
           "skin_tags": [
             "limited"
           ]
+        },
+        {
+          "id": "lylia_star_student_to_dragon_charmer",
+          "name": "Dragon Charmer",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lylia%20Elite%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -12736,6 +12835,15 @@
           "skin_tags": [
             "collector"
           ]
+        },
+        {
+          "id": "lapu_lapu_ancestral_blade_to_aurora_gaming",
+          "name": "Aurora Gaming",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20basic%20to%20champion.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -12768,6 +12876,15 @@
             "collector",
             "champion"
           ]
+        },
+        {
+          "id": "lapu_lapu_imperial_champion_to_aurora_gaming",
+          "name": "Aurora Gaming",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20elite%20to%20champion.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -16438,6 +16555,246 @@
           "name": "Astral Wanderer",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
           "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/fa6be590-muwqoumr-1-yv8io-yss-spe-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "grock_grave_guardian",
+      "hero": "Grock",
+      "base_name": "Grave Guardian",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero442-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050732",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "grock_grave_guardian_to_colossus_of_light",
+          "name": "Colossus of Light",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20basic%20FMVP.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "grock_v_e_n_o_m_monitor_lizard",
+      "hero": "Grock",
+      "base_name": "V.E.N.O.M. Monitor Lizard",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero444-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165222",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "grock_v_e_n_o_m_monitor_lizard_to_colossus_of_light",
+          "name": "Colossus of Light",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20Venom%20to%20Fvmp.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "grock_codename_rhino",
+      "hero": "Grock",
+      "base_name": "Codename: Rhino",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "grock_codename_rhino_to_colossus_of_light",
+          "name": "Colossus of Light",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20Epic%20to%20Fmvp.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "grock_iceland_golem",
+      "hero": "Grock",
+      "base_name": "Iceland Golem",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero445-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "grock_iceland_golem_to_colossus_of_light",
+          "name": "Colossus of Light",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/grock.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Grock%20starlight%20to%20fmvp.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "kagura_water_lily",
+      "hero": "Kagura",
+      "base_name": "Water Lily",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "kagura_water_lily_to_feast_of_eternity",
+          "name": "Feast of Eternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Annual%20to%20Legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "kagura_jade_blossom",
+      "hero": "Kagura",
+      "base_name": "Jade Blossom",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124144",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "kagura_jade_blossom_to_feast_of_eternity",
+          "name": "Feast of Eternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Epic%20to%20Legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "kagura_dragon_maiden",
+      "hero": "Kagura",
+      "base_name": "Dragon Maiden",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603014101",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "kagura_dragon_maiden_to_feast_of_eternity",
+          "name": "Feast of Eternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Luckybox%20to%20LEgend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "lylia_future_star",
+      "hero": "Lylia",
+      "base_name": "Future Star",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero864-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170050",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "lylia_future_star_to_dragon_charmer",
+          "name": "Dragon Charmer",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lylia%20special%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "lylia_haunted_doll",
+      "hero": "Lylia",
+      "base_name": "Haunted Doll",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170051",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "lylia_haunted_doll_to_dragon_charmer",
+          "name": "Dragon Charmer",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lylia%20halloween%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "lylia_phantasmal_revelry",
+      "hero": "Lylia",
+      "base_name": "Phantasmal Revelry",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero869-portrait.png/revision/latest/scale-to-width-down/150?cb=20251211050105",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "lylia_phantasmal_revelry_to_dragon_charmer",
+          "name": "Dragon Charmer",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lylia.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lylia%20coevenant%20to%20collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "lapu_lapu_vulcan",
+      "hero": "Lapu-Lapu",
+      "base_name": "Vulcan",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Hero374-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165117",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "lapu_lapu_vulcan_to_aurora_gaming",
+          "name": "Aurora Gaming",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20special%20to%20champion.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "lapu_lapu_special_force",
+      "hero": "Lapu-Lapu",
+      "base_name": "Special Force",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero375-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165118",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "lapu_lapu_special_force_to_aurora_gaming",
+          "name": "Aurora Gaming",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/lapu.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/lapu%20lapu%20starlight%20to%20champion.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
