@@ -13395,6 +13395,15 @@
           "skin_tags": [
             "m1"
           ]
+        },
+        {
+          "id": "aldous_blazing_force_to_oni_kabuto",
+          "name": "Oni Kabuto",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20blazing%20to%20annual%20starlight.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -13461,6 +13470,15 @@
           "skin_tags": [
             "elite"
           ]
+        },
+        {
+          "id": "aldous_death_to_oni_kabuto",
+          "name": "Oni Kabuto",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20elite%20to%20annualstar.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -13518,6 +13536,15 @@
           "name": "Starscream",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cb=20220525165625",
           "script": "https://github.com/missnapokita/July-Upgrade-Fighter/raw/main/aldous%20normal%20to%20trans.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "aldous_red_mantle_to_oni_kabuto",
+          "name": "Oni Kabuto",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/aldous%20basic%20to%20annualstar.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -13582,6 +13609,15 @@
             "starlight",
             "m1"
           ]
+        },
+        {
+          "id": "aldous_the_insentient_to_oni_kabuto",
+          "name": "Oni Kabuto",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20starlight%20to%20annual%20staright.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -16265,7 +16301,7 @@
       "base_name": "Fathom Terror",
       "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Hero106410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142553",
       "backup_script": "",
-      "enabled": true,
+      "enabled": false,
       "skin_tags": [],
       "targets": [
         {
@@ -16273,6 +16309,15 @@
           "name": "Realm Watcher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619034714",
           "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/79754c5b-muwpy3fa-1-sllnw-aldous-spe-to-collector.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "aldous_fathom_terror_to_oni_kabuto",
+          "name": "Oni Kabuto",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/aldous.png",
+          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Aldous%20Special%20to%20AnnualStar.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
