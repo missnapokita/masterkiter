@@ -1,5 +1,13 @@
 [
   {
+    "hero_name": "Bane",
+    "skin_name": "Mr. Krabs",
+    "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/HS5bnH_W0AAlxfa.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
+    "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/5a3c2066-mvjpk12t-1-1a1a2-bane-krabs.zip",
+    "hero_id": "Bane"
+  },
+  {
     "hero_name": "Aldous",
     "skin_name": "Oni Kabuto",
     "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/HS5cCYXWMAALGWn.jpg",
@@ -24,6 +32,30 @@
     "hero_id": "Lapu-Lapu"
   },
   {
+    "hero_name": "Valentina",
+    "skin_name": "Jewel of Envy",
+    "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/HSfcdS4XMAAD7DD.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24837021ec9d7aaf41b13fa55b6d13c9.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Valentina%20myth.zip",
+    "hero_id": "Valentina"
+  },
+  {
+    "hero_name": "Kagura",
+    "skin_name": "Feast of Eternity",
+    "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/HOjSZTwaMAA5-lO.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da424b020b8ac8235d64a1b8a09aa749.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Legend.zip",
+    "hero_id": "Kagura"
+  },
+  {
+    "hero_name": "Lylia",
+    "skin_name": "Dragon Charmer",
+    "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/HS5b6BwXoAEnrbF.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_706573f138055c3df3df94948b4f26bd.png",
+    "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Lylia%20Collector.zip",
+    "hero_id": "Lylia"
+  },
+  {
     "hero_name": "Bruno",
     "skin_name": "The Purifier",
     "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/collector/HQ0T_cOXgAAemmo.jpg",
@@ -46,13 +78,5 @@
     "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IC%20SELENA.png",
     "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20aspi.zip",
     "hero_id": "Selena"
-  },
-  {
-    "hero_name": "Helcurt",
-    "skin_name": "Kaiju of the Deep",
-    "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HCKunZla8AAm0W_.jpg",
-    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip",
-    "hero_id": "Helcurt"
   }
 ]
