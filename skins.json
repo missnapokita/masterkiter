@@ -2933,6 +2933,16 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "bane_007",
+          "skin_name": "Mr. Krabs",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/5a3c2066-mvjpk12t-1-1a1a2-bane-krabs.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "name": ""
         }
       ]
     },
