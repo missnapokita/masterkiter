@@ -210,6 +210,15 @@
     "featured": false,
     "targets": [
       {
+        "skin_name": "Escanor",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cBRng4NkDaV-6H91fLjhKxht71-JXPY3NxOThX-sQurzeRvHcrPknac&s=10",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b7f9203a-mvjpjt97-1-pmrzh-bane-escanor.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Bane"
+      },
+      {
         "hero_name": "Bane",
         "skin_name": "Shino",
         "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/bane%20shino.png",
@@ -224,15 +233,6 @@
         "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/bane%20kisame.png",
         "name": "",
         "script": "https://raw.githubusercontent.com/missnapokita/meow/main/bane%20kisame.zip",
-        "featured": false,
-        "enabled": true
-      },
-      {
-        "hero_name": "Bane",
-        "skin_name": "Shino",
-        "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/bane%20shino.png",
-        "name": "",
-        "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/ban%20shino.zip",
         "featured": false,
         "enabled": true
       }
@@ -525,6 +525,15 @@
     "name": "Badang",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
     "targets": [
+      {
+        "skin_name": "Jotaro Black",
+        "image": "https://wallpapercat.com/w/full/1/1/2/813045-3840x2160-desktop-4k-jotaro-kujo-wallpaper-photo.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/9899bec1-mvjpizdz-1-rp8l3-badang-jotaro.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Badang"
+      },
       {
         "hero_name": "Badang",
         "skin_name": "Akaza",
