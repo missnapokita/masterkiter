@@ -16800,6 +16800,126 @@
           "skin_tags": []
         }
       ]
+    },
+    {
+      "id": "bane_underworld_outlaw",
+      "hero": "Bane",
+      "base_name": "Underworld Outlaw",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164542",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bane_underworld_outlaw_to_mr_krabs",
+          "name": "Mr. Krabs",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/dff2acce-mvjpj6z6-1-5wsev-bane-elite-to-krabs.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "bane_castle_master",
+      "hero": "Bane",
+      "base_name": "Castle Master",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bane_castle_master_to_mr_krabs",
+          "name": "Mr. Krabs",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/289146cb-mvjpjehc-1-gjvvc-bane-epic-cas-to-krabs.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "bane_soul_defiler",
+      "hero": "Bane",
+      "base_name": "Soul Defiler",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133645",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bane_soul_defiler_to_mr_krabs",
+          "name": "Mr. Krabs",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/76688e17-mvjpjlv1-1-3ezdr-bane-epic-soul-to-krabs.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "bane_deep_sea_monster",
+      "hero": "Bane",
+      "base_name": "Deep Sea Monster",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164540",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bane_deep_sea_monster_to_mr_krabs",
+          "name": "Mr. Krabs",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/f56b7eea-mvjpk86z-1-zyu60-bane-nor-to-krabs.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "bane_warlord",
+      "hero": "Bane",
+      "base_name": "Warlord",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bane_warlord_to_mr_krabs",
+          "name": "Mr. Krabs",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/9e38d88c-mvjpkfn4-1-2omyh-bane-s-to-krabs.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "bane_lord_of_scalding_seas",
+      "hero": "Bane",
+      "base_name": "Lord of Scalding Seas",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero117-portrait.png/revision/latest/scale-to-width-down/150?cb=20260602041512",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "bane_lord_of_scalding_seas_to_mr_krabs",
+          "name": "Mr. Krabs",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/dd46606f-mvjpkmyo-1-m9bx4-bane-star-to-krabs.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
     }
   ]
 }
