@@ -1886,5 +1886,25 @@
         "hero_name": "Suyou"
       }
     ]
+  },
+  {
+    "hero_name": "Lukas",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest/scale-to-width-down/150?cb=20250412174341",
+    "name": "Lukas",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Guko",
+        "image": "https://wallpapercave.com/wp/wp4529480.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/89e16203-mvmgkk70-1-0bgnf-lukas-guko.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lukas"
+      }
+    ]
   }
 ]
