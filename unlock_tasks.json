@@ -1,5 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
+  "subscribe_enabled": true,
+  "tongits_enabled": false,
   "youtube_url": "https://youtube.com/@mauingpinas?si=7SdMk5BnoMHYfZF8",
   "tongits_download_url": "https://play.google.com/store/apps/details?id=com.tongitsgo.play",
   "subscribe_seconds": 10,
