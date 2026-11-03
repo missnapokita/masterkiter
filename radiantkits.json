@@ -2,46 +2,50 @@
   {
     "name": "Restore",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/js.png",
-    "script": ""
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Radiant.Kits.Backup.zip",
+    "upgradable_skin": ""
   },
   {
     "name": "Revenant of Roses",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/alpha.png",
-    "script": ""
+    "script": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/uploads/!%20All%20Button%20Special/1789202711932_RADIANT%20KIT%20ALPHA.zip"
   },
   {
     "name": "Obsidian Blade",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/alu.png",
-    "script": ""
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Alucard_Nutx_Skin06.zip",
+    "upgradable_skin": ""
   },
   {
     "name": "King of Hell",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/franco.png",
-    "script": ""
+    "script": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/uploads/!%20All%20Button%20Special/1789206534236_RADIANT%20KIT%20FRANCO%20LEGEND.zip"
   },
   {
     "name": "Galactic Vanguisher",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/freya.png",
-    "script": ""
+    "script": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/uploads/!%20All%20Button%20Special/1789203206482_RADIANT%20KIT%20FREYA%20LEGEND.zip"
   },
   {
     "name": "Conqueror",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/gord.png",
-    "script": ""
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Mage_Nutx_Skin03.zip",
+    "upgradable_skin": ""
   },
   {
     "name": "Sovereign of Realms",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/js.png",
-    "script": ""
-    },
+    "script": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/uploads/!%20All%20Button%20Special/1789203104338_RADIANT%20KIT%20JOHNSON%20LEGEND.zip"
+  },
   {
     "name": "Divine Goddes",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/lunox.png",
-    "script": ""
-       },
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/RadiantKits/Rad_Balancemagic_Nutx_Skin08.zip",
+    "upgradable_skin": ""
+  },
   {
     "name": "Codename - Storm",
     "image": "https://raw.githubusercontent.com/Mr-Nutcracker/RadKits/refs/heads/main/saber.png",
-    "script": ""
+    "script": "https://github.com/Lioxmenthol/Auto/raw/refs/heads/main/uploads/!%20All%20Button%20Special/1789202616112_RADIANT%20KIT%20SABER%20LEGEND.zip"
   }
 ]
