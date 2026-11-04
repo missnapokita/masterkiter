@@ -1,13 +1,13 @@
 {
-  "version_code": 12,
+  "version_code": 13,
   "version_name": "1.0",
   "title": "Masterkit Update Released!",
-  "message": "Added 10+ New Skins and Fixed Inject Errors 🔥",
+  "message": "Added Radiant Kits🔥",
   "changelog": [
     "Note!",
     "Tap “Update” to download the update directly through Chrome/Browser. Once the download is complete, install Masterkit V5 and enjoy!"
   ],
-  "download_url": "https://github.com/missnapokita/masterkiter/releases/download/ghfu-mobile-files-v1/cb0b05e4-mvxtu9f9-1-o80bk-Masterkit-Injector-No-Ads-.apk",
+  "download_url": "https://github.com/missnapokita/masterkiter/releases/download/ghfu-mobile-files-v1/6455de1f-mw24ge78-1-7c172-Masterkit-V6.apk",
   "update_size": "39 MB",
   "force_update": true
 }
