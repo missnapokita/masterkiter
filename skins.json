@@ -961,7 +961,7 @@
           "id": "alpha_007",
           "skin_name": "Revenant of Roses",
           "image": "https://pbs.twimg.com/media/GlboX4PbkAAXXgh?format=jpg&name=small",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alpha%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/3ddfb9e3-mwcydfq5-1-yye9l-alpha-legend.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -1095,7 +1095,7 @@
           "id": "alucard_004",
           "skin_name": "Obsidian Blade",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/7431bb17-mwcydoj2-1-azevh-alu-legend.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -5575,7 +5575,7 @@
           "id": "claude_010",
           "skin_name": "Cosmic Blaze",
           "image": "https://i.pinimg.com/736x/d8/aa/d1/d8aad1d800fd87c02cdc17bb30508ee1.jpg",
-          "script": "https://github.com/tin0521/mm/raw/main/claude_prime.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/d1a9a74b-mwcyhtaf-1-kyaqj-claude-prime.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -7337,7 +7337,7 @@
           "id": "fanny_002",
           "skin_name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/a167d99b-mwcyis2f-1-wfst8-fanny-legend.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -13144,7 +13144,7 @@
           "id": "kagura_011",
           "skin_name": "Feast of Enternity",
           "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
-          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/0151a0fa-mwcylmru-1-tcy9x-kagura-legend.zip",
           "featured": false,
           "enabled": true,
           "tags": [],
@@ -13702,8 +13702,9 @@
         },
         {
           "id": "karina_003",
+          "skin_name": "Leona",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
-          "script": "https://github.com/tin0521/assn/raw/refs/heads/main/karina_leona.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c557eb66-mwcymfap-1-q1aso-karina-kof.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -13714,7 +13715,6 @@
               "file": "KOF Skin Tag.png"
             }
           ],
-          "skin_name": "Leona",
           "name": ""
         },
         {
@@ -15788,9 +15788,9 @@
         },
         {
           "id": "lesley_006",
-          "name": "",
+          "skin_name": "",
           "image": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/lesley_legendPort.png",
-          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20LESLEY%20LEGEND%20REVAMP.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/4a663137-mwcyn02q-1-r0md8-les-legend.zip",
           "featured": false,
           "enabled": true,
           "tags": [
@@ -15800,7 +15800,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Legend Skin Tag.png"
             }
-          ]
+          ],
+          "name": ""
         },
         {
           "id": "lesley_007",
@@ -19660,7 +19661,7 @@
           "id": "obsidia_003",
           "skin_name": "Impeatrix Arashi",
           "image": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/obsidia%20aspi.png",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/obsidia%20aspi.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/6875677e-mwcynkjo-1-hk57x-obsidia-aspi.zip",
           "featured": false,
           "enabled": true,
           "tags": [],
@@ -21484,7 +21485,7 @@
           "id": "saber_003",
           "skin_name": "Codename - Storm",
           "image": "https://github.com/Mexica23/april_images/raw/refs/heads/main/saber_legendPor.jpg",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/saber%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/2d6d9a96-mwcyo12o-1-me2a9-saber-legend-n.zip",
           "featured": false,
           "enabled": true,
           "tags": [
