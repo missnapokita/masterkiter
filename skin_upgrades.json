@@ -118,7 +118,7 @@
           "id": "karina_phantom_blade_to_leona",
           "name": "Leona",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
-          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/J11%20Karina%20Basic%20to%20KOF%20New.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/b70dba24-mwcym8z9-1-zy0wv-karina-nor-to-kof.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -168,6 +168,15 @@
           "skin_tags": [
             "luckybox"
           ]
+        },
+        {
+          "id": "karina_black_pearl_to_leona",
+          "name": "Leona",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164500",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/ee242267-mwcymlji-1-gchsr-karina-star-to-kof.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": [
@@ -195,7 +204,7 @@
           "id": "karina_spider_lily_to_leona",
           "name": "Leona",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero087-portrait.png/revision/latest?cb=20220525164500",
-          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Karina%20Spyder%20to%20KOF.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/56ded123-mwcym37n-1-js0sj-karina-elite-s-to-kof.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -361,7 +370,7 @@
           "id": "fanny_campus_youth_to_galactic_starhawk",
           "name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20el%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/492f941d-mwcyi1wh-1-eyx08-fanny-elite-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -469,7 +478,7 @@
           "id": "fanny_punk_princess_to_galactic_starhawk",
           "name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20s%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/ae057f23-mwcyj0tq-1-y4ugi-fanny-s-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -567,7 +576,7 @@
           "id": "fanny_lifeguard_to_galactic_starhawk",
           "name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20sum%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/63712fcd-mwcyjhxu-1-1svvq-fanny-sum-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -654,7 +663,7 @@
           "id": "fanny_royal_cavalry_to_galactic_starhawk",
           "name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20star%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/25823e38-mwcyj8kh-1-q1j8i-fanny-star-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -730,7 +739,7 @@
           "id": "fanny_lightborn_ranger_to_galactic_starhawk",
           "name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20lb%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/953fb5b2-mwcyijr8-1-3oqmk-fanny-lb-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -783,7 +792,7 @@
           "id": "fanny_christmas_carnival_fanny_to_galactic_starhawk",
           "name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20xmas%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/2de849bf-mwcyjq3z-1-unwq0-fanny-xmas-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -856,7 +865,7 @@
           "id": "fanny_imperial_warrior_to_galactic_starhawk",
           "name": "Galactic Starhawk",
           "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/fan%20imperial%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/5b6762e9-mwcyiap1-1-4zvc3-fanny-empi-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -8976,7 +8985,7 @@
           "id": "kagura_flower_season_to_feast_of_eternity",
           "name": "Feast of Eternity",
           "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
-          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Basic%20to%20Legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/9c4f4198-mwcykp31-1-jb32o-kag-nor-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -9089,7 +9098,7 @@
           "id": "kagura_rainy_walk_to_feast_of_eternity",
           "name": "Feast of Eternity",
           "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
-          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20starlight%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/10f994cb-mwcyl8si-1-f2mnh-kag-star-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -11206,7 +11215,7 @@
           "id": "alucard_lone_hero_to_obsidian_blade",
           "name": "Obsidian Blade",
           "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/orca-image-1328348968.jpeg.jpeg",
-          "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/legend/alu%20nor%20to%20legend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/80cb5ef9-mwcye2bu-1-3wdhi-alu-nor-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -16694,7 +16703,7 @@
           "id": "kagura_dragon_maiden_to_feast_of_eternity",
           "name": "Feast of Eternity",
           "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
-          "script": "https://github.com/azizboy2007/TD2389ROP111/raw/refs/heads/main/Kagura%20Luckybox%20to%20LEgend.zip",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/45960e5a-mwcykdfd-1-b3e72-kag-epic-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
@@ -16915,6 +16924,26 @@
           "name": "Mr. Krabs",
           "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/bane.png",
           "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/dd46606f-mvjpkmyo-1-m9bx4-bane-star-to-krabs.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "kagura_lady_parasol",
+      "hero": "Kagura",
+      "base_name": "Lady Parasol",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero102511-portrait.png/revision/latest/scale-to-width-down/150?cb=20260602040257",
+      "backup_script": "",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "kagura_lady_parasol_to_feast_of_enternity",
+          "name": "Feast of Enternity",
+          "image": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/img/oct26/port/kagura.png",
+          "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/c77ec03c-mwcyky0j-1-ykpuz-kag-spe-lad-to-legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
