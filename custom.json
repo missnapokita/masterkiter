@@ -775,6 +775,24 @@
         "enabled": true,
         "name": "",
         "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Ken Kaneki",
+        "image": "https://images7.alphacoders.com/565/565455.jpg",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/e26f0841-mwcyegnn-1-aov6y-argus-ken-kaniki.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
+      },
+      {
+        "skin_name": "Orochimaru",
+        "image": "https://getwallpapers.com/wallpaper/full/6/1/d/1140699-orochimaru-wallpapers-3840x2160-for-4k.jpg",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/argus%20orutsimaru.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Argus"
       }
     ],
     "enabled": true,
@@ -1904,6 +1922,55 @@
         "enabled": true,
         "name": "",
         "hero_name": "Lukas"
+      },
+      {
+        "skin_name": "Madara",
+        "image": "https://www.desktophut.com/images/1716137143.webp",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/lukas%20madara.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Lukas"
+      }
+    ]
+  },
+  {
+    "hero_name": "Valir",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero571-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142021",
+    "name": "Valir",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Deidara",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Bk8g2SQy0ePa1Sm9wQKYIdq4AQKe0ZF9UEyOAmoQP86tTCzhBxq5EuM&s=10",
+        "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/Nov/valir%20dadira.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "Valir"
+      }
+    ]
+  },
+  {
+    "hero_name": "X-Borg",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142646",
+    "name": "X-Borg",
+    "script": "",
+    "featured": false,
+    "enabled": true,
+    "targets": [
+      {
+        "skin_name": "Pain",
+        "image": "https://images8.alphacoders.com/820/thumb-1920-820039.png",
+        "script": "https://github.com/missnapokita/bisaya/releases/download/ghfu-mobile-files-v1/3e0a5d3e-mwcyoioq-1-ld0fr-xb-x-pain.zip",
+        "featured": false,
+        "enabled": true,
+        "name": "",
+        "hero_name": "X-Borg"
       }
     ]
   }
