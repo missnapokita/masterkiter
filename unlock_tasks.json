@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "subscribe_enabled": true,
-  "tongits_enabled": false,
-  "youtube_url": "https://youtu.be/njkxbWcw7I0?si=x_1am9E9i0gp3Ey8",
+  "tongits_enabled": true,
+  "youtube_url": "https://youtu.be/pNdkn3q4ExI?si=oUKefasEvarChqvv",
   "tongits_download_url": "https://bito.li/TongitsGo-Pusicat",
   "subscribe_seconds": 10,
   "validity_hours": 48,
